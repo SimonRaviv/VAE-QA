@@ -1,0 +1,202 @@
+237	live/refimgs/coinsinfountain.bmp	live/jp2k/img21.bmp	JPEG2000 compression	0.799049973487854
+238	live/refimgs/coinsinfountain.bmp	live/jp2k/img28.bmp	JPEG2000 compression	0.36524897813796997
+239	live/refimgs/coinsinfountain.bmp	live/jp2k/img54.bmp	JPEG2000 compression	1.0
+240	live/refimgs/coinsinfountain.bmp	live/jp2k/img77.bmp	JPEG2000 compression	0.8879590034484863
+241	live/refimgs/coinsinfountain.bmp	live/jp2k/img168.bmp	JPEG2000 compression	0.5242639780044556
+242	live/refimgs/coinsinfountain.bmp	live/jp2k/img177.bmp	JPEG2000 compression	0.28536200523376465
+243	live/refimgs/coinsinfountain.bmp	live/jp2k/img182.bmp	JPEG2000 compression	0.6389850378036499
+244	live/refimgs/coinsinfountain.bmp	live/jp2k/img224.bmp	JPEG2000 compression	1.0
+245	live/refimgs/coinsinfountain.bmp	live/jpeg/img49.bmp	JPEG compression	0.7069590091705322
+246	live/refimgs/coinsinfountain.bmp	live/jpeg/img73.bmp	JPEG compression	0.6725180149078369
+247	live/refimgs/coinsinfountain.bmp	live/jpeg/img101.bmp	JPEG compression	0.9082750082015991
+248	live/refimgs/coinsinfountain.bmp	live/jpeg/img112.bmp	JPEG compression	1.0
+249	live/refimgs/coinsinfountain.bmp	live/jpeg/img129.bmp	JPEG compression	0.3150849938392639
+250	live/refimgs/coinsinfountain.bmp	live/jpeg/img182.bmp	JPEG compression	1.0
+251	live/refimgs/coinsinfountain.bmp	live/jpeg/img184.bmp	JPEG compression	0.1722170114517212
+252	live/refimgs/coinsinfountain.bmp	live/jpeg/img230.bmp	JPEG compression	0.18689697980880737
+253	live/refimgs/coinsinfountain.bmp	live/wn/img8.bmp	Additive white Gaussian noise	0.8609960079193115
+254	live/refimgs/coinsinfountain.bmp	live/wn/img24.bmp	Additive white Gaussian noise	0.1587110161781311
+255	live/refimgs/coinsinfountain.bmp	live/wn/img31.bmp	Additive white Gaussian noise	0.7538390159606934
+256	live/refimgs/coinsinfountain.bmp	live/wn/img92.bmp	Additive white Gaussian noise	0.38210201263427734
+257	live/refimgs/coinsinfountain.bmp	live/wn/img124.bmp	Additive white Gaussian noise	0.4501109719276428
+258	live/refimgs/coinsinfountain.bmp	live/wn/img146.bmp	Additive white Gaussian noise	1.0
+259	live/refimgs/coinsinfountain.bmp	live/gblur/img19.bmp	Gaussian blur	0.5242829918861389
+260	live/refimgs/coinsinfountain.bmp	live/gblur/img22.bmp	Gaussian blur	0.5746819972991943
+261	live/refimgs/coinsinfountain.bmp	live/gblur/img32.bmp	Gaussian blur	0.817296028137207
+262	live/refimgs/coinsinfountain.bmp	live/gblur/img101.bmp	Gaussian blur	0.766677975654602
+263	live/refimgs/coinsinfountain.bmp	live/gblur/img123.bmp	Gaussian blur	0.45115602016448975
+264	live/refimgs/coinsinfountain.bmp	live/gblur/img146.bmp	Gaussian blur	1.0
+265	live/refimgs/coinsinfountain.bmp	live/fastfading/img1.bmp	Fast Fading Rayleigh	0.3227599859237671
+266	live/refimgs/coinsinfountain.bmp	live/fastfading/img2.bmp	Fast Fading Rayleigh	0.35236501693725586
+267	live/refimgs/coinsinfountain.bmp	live/fastfading/img3.bmp	Fast Fading Rayleigh	0.3724709749221802
+268	live/refimgs/coinsinfountain.bmp	live/fastfading/img4.bmp	Fast Fading Rayleigh	0.8100029826164246
+269	live/refimgs/coinsinfountain.bmp	live/fastfading/img5.bmp	Fast Fading Rayleigh	0.8833789825439453
+270	live/refimgs/coinsinfountain.bmp	live/fastfading/img146.bmp	Fast Fading Rayleigh	1.0
+477	live/refimgs/monarch.bmp	live/jp2k/img22.bmp	JPEG2000 compression	1.0
+478	live/refimgs/monarch.bmp	live/jp2k/img56.bmp	JPEG2000 compression	0.6306500434875488
+479	live/refimgs/monarch.bmp	live/jp2k/img61.bmp	JPEG2000 compression	0.8080329895019531
+480	live/refimgs/monarch.bmp	live/jp2k/img105.bmp	JPEG2000 compression	0.9323869943618774
+481	live/refimgs/monarch.bmp	live/jp2k/img160.bmp	JPEG2000 compression	0.47435498237609863
+482	live/refimgs/monarch.bmp	live/jp2k/img204.bmp	JPEG2000 compression	1.0
+483	live/refimgs/monarch.bmp	live/jp2k/img208.bmp	JPEG2000 compression	0.5663759708404541
+484	live/refimgs/monarch.bmp	live/jpeg/img18.bmp	JPEG compression	0.5769540071487427
+485	live/refimgs/monarch.bmp	live/jpeg/img48.bmp	JPEG compression	1.0
+486	live/refimgs/monarch.bmp	live/jpeg/img94.bmp	JPEG compression	0.8691840171813965
+487	live/refimgs/monarch.bmp	live/jpeg/img96.bmp	JPEG compression	0.9649189710617065
+488	live/refimgs/monarch.bmp	live/jpeg/img170.bmp	JPEG compression	0.2524849772453308
+489	live/refimgs/monarch.bmp	live/jpeg/img178.bmp	JPEG compression	0.7743430137634277
+490	live/refimgs/monarch.bmp	live/jpeg/img209.bmp	JPEG compression	0.205780029296875
+491	live/refimgs/monarch.bmp	live/jpeg/img211.bmp	JPEG compression	1.0
+492	live/refimgs/monarch.bmp	live/wn/img1.bmp	Additive white Gaussian noise	0.7401329874992371
+493	live/refimgs/monarch.bmp	live/wn/img17.bmp	Additive white Gaussian noise	0.5400869846343994
+494	live/refimgs/monarch.bmp	live/wn/img34.bmp	Additive white Gaussian noise	0.15535402297973633
+495	live/refimgs/monarch.bmp	live/wn/img82.bmp	Additive white Gaussian noise	0.8103749752044678
+496	live/refimgs/monarch.bmp	live/wn/img140.bmp	Additive white Gaussian noise	0.41662800312042236
+497	live/refimgs/monarch.bmp	live/wn/img173.bmp	Additive white Gaussian noise	1.0
+498	live/refimgs/monarch.bmp	live/gblur/img3.bmp	Gaussian blur	0.6129310131072998
+499	live/refimgs/monarch.bmp	live/gblur/img11.bmp	Gaussian blur	0.2550230026245117
+500	live/refimgs/monarch.bmp	live/gblur/img37.bmp	Gaussian blur	0.500793993473053
+501	live/refimgs/monarch.bmp	live/gblur/img96.bmp	Gaussian blur	0.8083699941635132
+502	live/refimgs/monarch.bmp	live/gblur/img103.bmp	Gaussian blur	0.6276260018348694
+503	live/refimgs/monarch.bmp	live/gblur/img173.bmp	Gaussian blur	1.0
+504	live/refimgs/monarch.bmp	live/fastfading/img136.bmp	Fast Fading Rayleigh	0.41404300928115845
+505	live/refimgs/monarch.bmp	live/fastfading/img137.bmp	Fast Fading Rayleigh	0.5634739995002747
+506	live/refimgs/monarch.bmp	live/fastfading/img138.bmp	Fast Fading Rayleigh	0.7560669779777527
+507	live/refimgs/monarch.bmp	live/fastfading/img139.bmp	Fast Fading Rayleigh	0.9371299743652344
+508	live/refimgs/monarch.bmp	live/fastfading/img140.bmp	Fast Fading Rayleigh	0.9169449806213379
+509	live/refimgs/monarch.bmp	live/fastfading/img173.bmp	Fast Fading Rayleigh	1.0
+645	live/refimgs/rapids.bmp	live/jp2k/img3.bmp	JPEG2000 compression	0.7844749689102173
+646	live/refimgs/rapids.bmp	live/jp2k/img32.bmp	JPEG2000 compression	0.3174949884414673
+647	live/refimgs/rapids.bmp	live/jp2k/img64.bmp	JPEG2000 compression	1.0
+648	live/refimgs/rapids.bmp	live/jp2k/img81.bmp	JPEG2000 compression	0.59968501329422
+649	live/refimgs/rapids.bmp	live/jp2k/img126.bmp	JPEG2000 compression	0.9041579961776733
+650	live/refimgs/rapids.bmp	live/jp2k/img135.bmp	JPEG2000 compression	0.24031299352645874
+651	live/refimgs/rapids.bmp	live/jp2k/img146.bmp	JPEG2000 compression	0.49755001068115234
+652	live/refimgs/rapids.bmp	live/jp2k/img189.bmp	JPEG2000 compression	1.0
+653	live/refimgs/rapids.bmp	live/jpeg/img9.bmp	JPEG compression	0.46552902460098267
+654	live/refimgs/rapids.bmp	live/jpeg/img31.bmp	JPEG compression	1.0
+655	live/refimgs/rapids.bmp	live/jpeg/img35.bmp	JPEG compression	0.3263869881629944
+656	live/refimgs/rapids.bmp	live/jpeg/img110.bmp	JPEG compression	0.639335036277771
+657	live/refimgs/rapids.bmp	live/jpeg/img139.bmp	JPEG compression	1.0
+658	live/refimgs/rapids.bmp	live/jpeg/img146.bmp	JPEG compression	0.7657279968261719
+659	live/refimgs/rapids.bmp	live/jpeg/img199.bmp	JPEG compression	0.1428470015525818
+660	live/refimgs/rapids.bmp	live/wn/img74.bmp	Additive white Gaussian noise	0.5112659931182861
+661	live/refimgs/rapids.bmp	live/wn/img77.bmp	Additive white Gaussian noise	0.15719002485275269
+662	live/refimgs/rapids.bmp	live/wn/img101.bmp	Additive white Gaussian noise	0.9000980257987976
+663	live/refimgs/rapids.bmp	live/wn/img107.bmp	Additive white Gaussian noise	0.6990939974784851
+664	live/refimgs/rapids.bmp	live/wn/img116.bmp	Additive white Gaussian noise	0.3964170217514038
+665	live/refimgs/rapids.bmp	live/wn/img161.bmp	Additive white Gaussian noise	1.0
+666	live/refimgs/rapids.bmp	live/gblur/img9.bmp	Gaussian blur	0.7867580056190491
+667	live/refimgs/rapids.bmp	live/gblur/img17.bmp	Gaussian blur	0.21043497323989868
+668	live/refimgs/rapids.bmp	live/gblur/img29.bmp	Gaussian blur	0.7342230081558228
+669	live/refimgs/rapids.bmp	live/gblur/img34.bmp	Gaussian blur	0.5816709995269775
+670	live/refimgs/rapids.bmp	live/gblur/img141.bmp	Gaussian blur	0.4929580092430115
+671	live/refimgs/rapids.bmp	live/gblur/img161.bmp	Gaussian blur	1.0
+672	live/refimgs/rapids.bmp	live/fastfading/img76.bmp	Fast Fading Rayleigh	0.12386202812194824
+673	live/refimgs/rapids.bmp	live/fastfading/img77.bmp	Fast Fading Rayleigh	0.5829650163650513
+674	live/refimgs/rapids.bmp	live/fastfading/img78.bmp	Fast Fading Rayleigh	0.590499997138977
+675	live/refimgs/rapids.bmp	live/fastfading/img79.bmp	Fast Fading Rayleigh	0.4899370074272156
+676	live/refimgs/rapids.bmp	live/fastfading/img80.bmp	Fast Fading Rayleigh	0.9389190077781677
+677	live/refimgs/rapids.bmp	live/fastfading/img161.bmp	Fast Fading Rayleigh	1.0
+948	live/refimgs/womanhat.bmp	live/jp2k/img42.bmp	JPEG2000 compression	0.5153260231018066
+949	live/refimgs/womanhat.bmp	live/jp2k/img75.bmp	JPEG2000 compression	0.9012719988822937
+950	live/refimgs/womanhat.bmp	live/jp2k/img97.bmp	JPEG2000 compression	1.0
+951	live/refimgs/womanhat.bmp	live/jp2k/img99.bmp	JPEG2000 compression	0.5509809851646423
+952	live/refimgs/womanhat.bmp	live/jp2k/img186.bmp	JPEG2000 compression	1.0
+953	live/refimgs/womanhat.bmp	live/jp2k/img191.bmp	JPEG2000 compression	0.30076301097869873
+954	live/refimgs/womanhat.bmp	live/jp2k/img195.bmp	JPEG2000 compression	0.9546459913253784
+955	live/refimgs/womanhat.bmp	live/jp2k/img226.bmp	JPEG2000 compression	0.5032860040664673
+956	live/refimgs/womanhat.bmp	live/jpeg/img1.bmp	JPEG compression	0.5265089869499207
+957	live/refimgs/womanhat.bmp	live/jpeg/img26.bmp	JPEG compression	1.0
+958	live/refimgs/womanhat.bmp	live/jpeg/img89.bmp	JPEG compression	0.6753770112991333
+959	live/refimgs/womanhat.bmp	live/jpeg/img107.bmp	JPEG compression	0.7688369750976562
+960	live/refimgs/womanhat.bmp	live/jpeg/img138.bmp	JPEG compression	0.15428298711776733
+961	live/refimgs/womanhat.bmp	live/jpeg/img154.bmp	JPEG compression	0.12763100862503052
+962	live/refimgs/womanhat.bmp	live/jpeg/img168.bmp	JPEG compression	0.898796021938324
+963	live/refimgs/womanhat.bmp	live/jpeg/img190.bmp	JPEG compression	1.0
+964	live/refimgs/womanhat.bmp	live/wn/img3.bmp	Additive white Gaussian noise	0.5993549823760986
+965	live/refimgs/womanhat.bmp	live/wn/img11.bmp	Additive white Gaussian noise	0.7938839793205261
+966	live/refimgs/womanhat.bmp	live/wn/img28.bmp	Additive white Gaussian noise	0.47742700576782227
+967	live/refimgs/womanhat.bmp	live/wn/img60.bmp	Additive white Gaussian noise	0.1263049840927124
+968	live/refimgs/womanhat.bmp	live/wn/img119.bmp	Additive white Gaussian noise	0.4177730083465576
+969	live/refimgs/womanhat.bmp	live/wn/img162.bmp	Additive white Gaussian noise	1.0
+970	live/refimgs/womanhat.bmp	live/gblur/img36.bmp	Gaussian blur	0.5581400394439697
+971	live/refimgs/womanhat.bmp	live/gblur/img42.bmp	Gaussian blur	0.6634889841079712
+972	live/refimgs/womanhat.bmp	live/gblur/img61.bmp	Gaussian blur	0.760138988494873
+973	live/refimgs/womanhat.bmp	live/gblur/img82.bmp	Gaussian blur	0.809240996837616
+974	live/refimgs/womanhat.bmp	live/gblur/img132.bmp	Gaussian blur	0.42629897594451904
+975	live/refimgs/womanhat.bmp	live/gblur/img162.bmp	Gaussian blur	1.0
+976	live/refimgs/womanhat.bmp	live/fastfading/img81.bmp	Fast Fading Rayleigh	0.5629310011863708
+977	live/refimgs/womanhat.bmp	live/fastfading/img82.bmp	Fast Fading Rayleigh	0.6275390386581421
+978	live/refimgs/womanhat.bmp	live/fastfading/img83.bmp	Fast Fading Rayleigh	0.7809270024299622
+979	live/refimgs/womanhat.bmp	live/fastfading/img84.bmp	Fast Fading Rayleigh	0.8298230171203613
+980	live/refimgs/womanhat.bmp	live/fastfading/img85.bmp	Fast Fading Rayleigh	0.5117869973182678
+981	live/refimgs/womanhat.bmp	live/fastfading/img162.bmp	Fast Fading Rayleigh	1.0
+35	live/refimgs/building2.bmp	live/jp2k/img24.bmp	JPEG2000 compression	1.0
+36	live/refimgs/building2.bmp	live/jp2k/img30.bmp	JPEG2000 compression	0.327210009098053
+37	live/refimgs/building2.bmp	live/jp2k/img41.bmp	JPEG2000 compression	0.6090680360794067
+38	live/refimgs/building2.bmp	live/jp2k/img107.bmp	JPEG2000 compression	0.2856389880180359
+39	live/refimgs/building2.bmp	live/jp2k/img119.bmp	JPEG2000 compression	1.0
+40	live/refimgs/building2.bmp	live/jp2k/img132.bmp	JPEG2000 compression	0.798354983329773
+41	live/refimgs/building2.bmp	live/jp2k/img163.bmp	JPEG2000 compression	0.5529119968414307
+42	live/refimgs/building2.bmp	live/jp2k/img216.bmp	JPEG2000 compression	0.8915970325469971
+43	live/refimgs/building2.bmp	live/jpeg/img36.bmp	JPEG compression	0.35533297061920166
+44	live/refimgs/building2.bmp	live/jpeg/img60.bmp	JPEG compression	0.5899879932403564
+45	live/refimgs/building2.bmp	live/jpeg/img62.bmp	JPEG compression	0.3930850028991699
+46	live/refimgs/building2.bmp	live/jpeg/img113.bmp	JPEG compression	1.0
+47	live/refimgs/building2.bmp	live/jpeg/img171.bmp	JPEG compression	0.837680995464325
+48	live/refimgs/building2.bmp	live/jpeg/img192.bmp	JPEG compression	0.1676419973373413
+49	live/refimgs/building2.bmp	live/jpeg/img205.bmp	JPEG compression	0.21072500944137573
+50	live/refimgs/building2.bmp	live/jpeg/img224.bmp	JPEG compression	1.0
+51	live/refimgs/building2.bmp	live/jpeg/img225.bmp	JPEG compression	0.7073299884796143
+52	live/refimgs/building2.bmp	live/wn/img36.bmp	Additive white Gaussian noise	0.36289501190185547
+53	live/refimgs/building2.bmp	live/wn/img48.bmp	Additive white Gaussian noise	0.6913169622421265
+54	live/refimgs/building2.bmp	live/wn/img102.bmp	Additive white Gaussian noise	0.5509330034255981
+55	live/refimgs/building2.bmp	live/wn/img121.bmp	Additive white Gaussian noise	0.3192480206489563
+56	live/refimgs/building2.bmp	live/wn/img136.bmp	Additive white Gaussian noise	0.050113022327423096
+57	live/refimgs/building2.bmp	live/wn/img156.bmp	Additive white Gaussian noise	1.0
+58	live/refimgs/building2.bmp	live/gblur/img8.bmp	Gaussian blur	0.7478779554367065
+59	live/refimgs/building2.bmp	live/gblur/img25.bmp	Gaussian blur	0.45551997423171997
+60	live/refimgs/building2.bmp	live/gblur/img33.bmp	Gaussian blur	0.6683540344238281
+61	live/refimgs/building2.bmp	live/gblur/img80.bmp	Gaussian blur	0.6207219958305359
+62	live/refimgs/building2.bmp	live/gblur/img137.bmp	Gaussian blur	0.8411930203437805
+63	live/refimgs/building2.bmp	live/gblur/img156.bmp	Gaussian blur	1.0
+64	live/refimgs/building2.bmp	live/fastfading/img51.bmp	Fast Fading Rayleigh	0.2409369945526123
+65	live/refimgs/building2.bmp	live/fastfading/img52.bmp	Fast Fading Rayleigh	0.08145201206207275
+66	live/refimgs/building2.bmp	live/fastfading/img53.bmp	Fast Fading Rayleigh	0.5596510171890259
+67	live/refimgs/building2.bmp	live/fastfading/img54.bmp	Fast Fading Rayleigh	0.9007009863853455
+68	live/refimgs/building2.bmp	live/fastfading/img55.bmp	Fast Fading Rayleigh	0.8561090230941772
+69	live/refimgs/building2.bmp	live/fastfading/img156.bmp	Fast Fading Rayleigh	1.0
+612	live/refimgs/plane.bmp	live/jp2k/img53.bmp	JPEG2000 compression	0.44105398654937744
+613	live/refimgs/plane.bmp	live/jp2k/img57.bmp	JPEG2000 compression	1.0
+614	live/refimgs/plane.bmp	live/jp2k/img58.bmp	JPEG2000 compression	0.9494389891624451
+615	live/refimgs/plane.bmp	live/jp2k/img113.bmp	JPEG2000 compression	0.8875870108604431
+616	live/refimgs/plane.bmp	live/jp2k/img139.bmp	JPEG2000 compression	1.0
+617	live/refimgs/plane.bmp	live/jp2k/img173.bmp	JPEG2000 compression	0.8218309879302979
+618	live/refimgs/plane.bmp	live/jp2k/img203.bmp	JPEG2000 compression	0.6329059600830078
+619	live/refimgs/plane.bmp	live/jp2k/img220.bmp	JPEG2000 compression	0.3662260174751282
+620	live/refimgs/plane.bmp	live/jpeg/img17.bmp	JPEG compression	0.9597840309143066
+621	live/refimgs/plane.bmp	live/jpeg/img25.bmp	JPEG compression	0.6831519603729248
+622	live/refimgs/plane.bmp	live/jpeg/img40.bmp	JPEG compression	0.8867890238761902
+623	live/refimgs/plane.bmp	live/jpeg/img76.bmp	JPEG compression	1.0
+624	live/refimgs/plane.bmp	live/jpeg/img165.bmp	JPEG compression	0.4781000018119812
+625	live/refimgs/plane.bmp	live/jpeg/img191.bmp	JPEG compression	1.0
+626	live/refimgs/plane.bmp	live/jpeg/img201.bmp	JPEG compression	0.20446699857711792
+627	live/refimgs/plane.bmp	live/wn/img10.bmp	Additive white Gaussian noise	0.7007529735565186
+628	live/refimgs/plane.bmp	live/wn/img78.bmp	Additive white Gaussian noise	0.8623239994049072
+629	live/refimgs/plane.bmp	live/wn/img105.bmp	Additive white Gaussian noise	0.16019797325134277
+630	live/refimgs/plane.bmp	live/wn/img129.bmp	Additive white Gaussian noise	0.4211840033531189
+631	live/refimgs/plane.bmp	live/wn/img139.bmp	Additive white Gaussian noise	0.5285279750823975
+632	live/refimgs/plane.bmp	live/wn/img157.bmp	Additive white Gaussian noise	1.0
+633	live/refimgs/plane.bmp	live/gblur/img5.bmp	Gaussian blur	0.3484269976615906
+634	live/refimgs/plane.bmp	live/gblur/img30.bmp	Gaussian blur	0.5456669926643372
+635	live/refimgs/plane.bmp	live/gblur/img63.bmp	Gaussian blur	0.8332470059394836
+636	live/refimgs/plane.bmp	live/gblur/img86.bmp	Gaussian blur	0.6659550070762634
+637	live/refimgs/plane.bmp	live/gblur/img139.bmp	Gaussian blur	0.42241400480270386
+638	live/refimgs/plane.bmp	live/gblur/img157.bmp	Gaussian blur	1.0
+639	live/refimgs/plane.bmp	live/fastfading/img56.bmp	Fast Fading Rayleigh	0.5544170141220093
+640	live/refimgs/plane.bmp	live/fastfading/img57.bmp	Fast Fading Rayleigh	0.31974297761917114
+641	live/refimgs/plane.bmp	live/fastfading/img58.bmp	Fast Fading Rayleigh	0.14150702953338623
+642	live/refimgs/plane.bmp	live/fastfading/img59.bmp	Fast Fading Rayleigh	0.9156650304794312
+643	live/refimgs/plane.bmp	live/fastfading/img60.bmp	Fast Fading Rayleigh	0.8700670003890991
+644	live/refimgs/plane.bmp	live/fastfading/img157.bmp	Fast Fading Rayleigh	1.0

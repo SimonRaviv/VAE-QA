@@ -1,0 +1,600 @@
+840	tid2013/images/i08.bmp	tid2013/images/i08_01_1.bmp	Additive Gaussian noise	0.7610540390014648
+841	tid2013/images/i08.bmp	tid2013/images/i08_01_2.bmp	Additive Gaussian noise	0.6407548785209656
+842	tid2013/images/i08.bmp	tid2013/images/i08_01_3.bmp	Additive Gaussian noise	0.6592621207237244
+843	tid2013/images/i08.bmp	tid2013/images/i08_01_4.bmp	Additive Gaussian noise	0.5533063411712646
+844	tid2013/images/i08.bmp	tid2013/images/i08_01_5.bmp	Additive Gaussian noise	0.4741869866847992
+845	tid2013/images/i08.bmp	tid2013/images/i08_02_1.bmp	Additive Gaussian noise in color	0.7675601840019226
+846	tid2013/images/i08.bmp	tid2013/images/i08_02_2.bmp	Additive Gaussian noise in color	0.7610540390014648
+847	tid2013/images/i08.bmp	tid2013/images/i08_02_3.bmp	Additive Gaussian noise in color	0.740666389465332
+848	tid2013/images/i08.bmp	tid2013/images/i08_02_4.bmp	Additive Gaussian noise in color	0.7147852778434753
+849	tid2013/images/i08.bmp	tid2013/images/i08_02_5.bmp	Additive Gaussian noise in color	0.6315006017684937
+850	tid2013/images/i08.bmp	tid2013/images/i08_03_1.bmp	Spatially correlated noise	0.6315006017684937
+851	tid2013/images/i08.bmp	tid2013/images/i08_03_2.bmp	Spatially correlated noise	0.580604612827301
+852	tid2013/images/i08.bmp	tid2013/images/i08_03_3.bmp	Spatially correlated noise	0.4624656140804291
+853	tid2013/images/i08.bmp	tid2013/images/i08_03_4.bmp	Spatially correlated noise	0.3910471796989441
+854	tid2013/images/i08.bmp	tid2013/images/i08_03_5.bmp	Spatially correlated noise	0.30140119791030884
+855	tid2013/images/i08.bmp	tid2013/images/i08_04_1.bmp	Masked noise	0.8350843787193298
+856	tid2013/images/i08.bmp	tid2013/images/i08_04_2.bmp	Masked noise	0.802695631980896
+857	tid2013/images/i08.bmp	tid2013/images/i08_04_3.bmp	Masked noise	0.7720425128936768
+858	tid2013/images/i08.bmp	tid2013/images/i08_04_4.bmp	Masked noise	0.7451487183570862
+859	tid2013/images/i08.bmp	tid2013/images/i08_04_5.bmp	Masked noise	0.6777693629264832
+860	tid2013/images/i08.bmp	tid2013/images/i08_05_1.bmp	High frequency noise	0.7302072644233704
+861	tid2013/images/i08.bmp	tid2013/images/i08_05_2.bmp	High frequency noise	0.7471725344657898
+862	tid2013/images/i08.bmp	tid2013/images/i08_05_3.bmp	High frequency noise	0.6420558094978333
+863	tid2013/images/i08.bmp	tid2013/images/i08_05_4.bmp	High frequency noise	0.5343358516693115
+864	tid2013/images/i08.bmp	tid2013/images/i08_05_5.bmp	High frequency noise	0.4134586751461029
+865	tid2013/images/i08.bmp	tid2013/images/i08_06_1.bmp	Impulse noise	0.5944861173629761
+866	tid2013/images/i08.bmp	tid2013/images/i08_06_2.bmp	Impulse noise	0.5524098873138428
+867	tid2013/images/i08.bmp	tid2013/images/i08_06_3.bmp	Impulse noise	0.5294002890586853
+868	tid2013/images/i08.bmp	tid2013/images/i08_06_4.bmp	Impulse noise	0.4834398925304413
+869	tid2013/images/i08.bmp	tid2013/images/i08_06_5.bmp	Impulse noise	0.40478378534317017
+870	tid2013/images/i08.bmp	tid2013/images/i08_07_1.bmp	Quantization noise	0.7541133165359497
+871	tid2013/images/i08.bmp	tid2013/images/i08_07_2.bmp	Quantization noise	0.6315006017684937
+872	tid2013/images/i08.bmp	tid2013/images/i08_07_3.bmp	Quantization noise	0.5628690719604492
+873	tid2013/images/i08.bmp	tid2013/images/i08_07_4.bmp	Quantization noise	0.46030551195144653
+874	tid2013/images/i08.bmp	tid2013/images/i08_07_5.bmp	Quantization noise	0.3076190650463104
+875	tid2013/images/i08.bmp	tid2013/images/i08_08_1.bmp	Gaussian blur	0.7137725949287415
+876	tid2013/images/i08.bmp	tid2013/images/i08_08_2.bmp	Gaussian blur	0.624126672744751
+877	tid2013/images/i08.bmp	tid2013/images/i08_08_3.bmp	Gaussian blur	0.5250829458236694
+878	tid2013/images/i08.bmp	tid2013/images/i08_08_4.bmp	Gaussian blur	0.37702223658561707
+879	tid2013/images/i08.bmp	tid2013/images/i08_08_5.bmp	Gaussian blur	0.2474687695503235
+880	tid2013/images/i08.bmp	tid2013/images/i08_09_1.bmp	Image denoising	0.784188449382782
+881	tid2013/images/i08.bmp	tid2013/images/i08_09_2.bmp	Image denoising	0.8079008460044861
+882	tid2013/images/i08.bmp	tid2013/images/i08_09_3.bmp	Image denoising	0.6868788003921509
+883	tid2013/images/i08.bmp	tid2013/images/i08_09_4.bmp	Image denoising	0.46724623441696167
+884	tid2013/images/i08.bmp	tid2013/images/i08_09_5.bmp	Image denoising	0.21623754501342773
+885	tid2013/images/i08.bmp	tid2013/images/i08_10_1.bmp	JPEG compression	0.8212029337882996
+886	tid2013/images/i08.bmp	tid2013/images/i08_10_2.bmp	JPEG compression	0.7675601840019226
+887	tid2013/images/i08.bmp	tid2013/images/i08_10_3.bmp	JPEG compression	0.6375735402107239
+888	tid2013/images/i08.bmp	tid2013/images/i08_10_4.bmp	JPEG compression	0.4269055724143982
+889	tid2013/images/i08.bmp	tid2013/images/i08_10_5.bmp	JPEG compression	0.157967671751976
+890	tid2013/images/i08.bmp	tid2013/images/i08_11_1.bmp	JPEG2000 compression	0.8258300423622131
+891	tid2013/images/i08.bmp	tid2013/images/i08_11_2.bmp	JPEG2000 compression	0.7182549238204956
+892	tid2013/images/i08.bmp	tid2013/images/i08_11_3.bmp	JPEG2000 compression	0.6202424764633179
+893	tid2013/images/i08.bmp	tid2013/images/i08_11_4.bmp	JPEG2000 compression	0.5667245984077454
+894	tid2013/images/i08.bmp	tid2013/images/i08_11_5.bmp	JPEG2000 compression	0.29034534096717834
+895	tid2013/images/i08.bmp	tid2013/images/i08_12_1.bmp	JPEG transmission errors	0.8535916209220886
+896	tid2013/images/i08.bmp	tid2013/images/i08_12_2.bmp	JPEG transmission errors	0.7888156175613403
+897	tid2013/images/i08.bmp	tid2013/images/i08_12_3.bmp	JPEG transmission errors	0.7541133165359497
+898	tid2013/images/i08.bmp	tid2013/images/i08_12_4.bmp	JPEG transmission errors	0.6555027365684509
+899	tid2013/images/i08.bmp	tid2013/images/i08_12_5.bmp	JPEG transmission errors	0.5748213529586792
+900	tid2013/images/i08.bmp	tid2013/images/i08_13_1.bmp	JPEG2000 transmission errors	0.7944539785385132
+901	tid2013/images/i08.bmp	tid2013/images/i08_13_2.bmp	JPEG2000 transmission errors	0.43377888202667236
+902	tid2013/images/i08.bmp	tid2013/images/i08_13_3.bmp	JPEG2000 transmission errors	0.5944861173629761
+903	tid2013/images/i08.bmp	tid2013/images/i08_13_4.bmp	JPEG2000 transmission errors	0.35728004574775696
+904	tid2013/images/i08.bmp	tid2013/images/i08_13_5.bmp	JPEG2000 transmission errors	0.2700251340866089
+905	tid2013/images/i08.bmp	tid2013/images/i08_14_1.bmp	Non eccentricity pattern noise	0.7765247821807861
+906	tid2013/images/i08.bmp	tid2013/images/i08_14_2.bmp	Non eccentricity pattern noise	0.7451487183570862
+907	tid2013/images/i08.bmp	tid2013/images/i08_14_3.bmp	Non eccentricity pattern noise	0.6638892889022827
+908	tid2013/images/i08.bmp	tid2013/images/i08_14_4.bmp	Non eccentricity pattern noise	0.6465381383895874
+909	tid2013/images/i08.bmp	tid2013/images/i08_14_5.bmp	Non eccentricity pattern noise	0.5389630198478699
+910	tid2013/images/i08.bmp	tid2013/images/i08_15_1.bmp	Local block-wise distortions of different intensity	0.506574273109436
+911	tid2013/images/i08.bmp	tid2013/images/i08_15_2.bmp	Local block-wise distortions of different intensity	0.38627514243125916
+912	tid2013/images/i08.bmp	tid2013/images/i08_15_3.bmp	Local block-wise distortions of different intensity	0.4358701705932617
+913	tid2013/images/i08.bmp	tid2013/images/i08_15_4.bmp	Local block-wise distortions of different intensity	0.49414002895355225
+914	tid2013/images/i08.bmp	tid2013/images/i08_15_5.bmp	Local block-wise distortions of different intensity	0.46955981850624084
+915	tid2013/images/i08.bmp	tid2013/images/i08_16_1.bmp	Mean shift (intensity shift)	0.8347946405410767
+916	tid2013/images/i08.bmp	tid2013/images/i08_16_2.bmp	Mean shift (intensity shift)	0.789971649646759
+917	tid2013/images/i08.bmp	tid2013/images/i08_16_3.bmp	Mean shift (intensity shift)	0.8073228001594543
+918	tid2013/images/i08.bmp	tid2013/images/i08_16_4.bmp	Mean shift (intensity shift)	0.6685164570808411
+919	tid2013/images/i08.bmp	tid2013/images/i08_16_5.bmp	Mean shift (intensity shift)	0.6202424764633179
+920	tid2013/images/i08.bmp	tid2013/images/i08_17_1.bmp	Contrast change	0.740666389465332
+921	tid2013/images/i08.bmp	tid2013/images/i08_17_2.bmp	Contrast change	0.7656812071800232
+922	tid2013/images/i08.bmp	tid2013/images/i08_17_3.bmp	Contrast change	0.5658568143844604
+923	tid2013/images/i08.bmp	tid2013/images/i08_17_4.bmp	Contrast change	0.6916508078575134
+924	tid2013/images/i08.bmp	tid2013/images/i08_17_5.bmp	Contrast change	0.43254393339157104
+925	tid2013/images/i08.bmp	tid2013/images/i08_18_1.bmp	Change of color saturation	0.5748213529586792
+926	tid2013/images/i08.bmp	tid2013/images/i08_18_2.bmp	Change of color saturation	0.5019485354423523
+927	tid2013/images/i08.bmp	tid2013/images/i08_18_3.bmp	Change of color saturation	0.38656488060951233
+928	tid2013/images/i08.bmp	tid2013/images/i08_18_4.bmp	Change of color saturation	0.37311798334121704
+929	tid2013/images/i08.bmp	tid2013/images/i08_18_5.bmp	Change of color saturation	0.37702223658561707
+930	tid2013/images/i08.bmp	tid2013/images/i08_19_1.bmp	Multiplicative Gaussian noise	0.7379196882247925
+931	tid2013/images/i08.bmp	tid2013/images/i08_19_2.bmp	Multiplicative Gaussian noise	0.6731421947479248
+932	tid2013/images/i08.bmp	tid2013/images/i08_19_3.bmp	Multiplicative Gaussian noise	0.6375735402107239
+933	tid2013/images/i08.bmp	tid2013/images/i08_19_4.bmp	Multiplicative Gaussian noise	0.5435901880264282
+934	tid2013/images/i08.bmp	tid2013/images/i08_19_5.bmp	Multiplicative Gaussian noise	0.48069313168525696
+935	tid2013/images/i08.bmp	tid2013/images/i08_20_1.bmp	Comfort noise	0.8073228001594543
+936	tid2013/images/i08.bmp	tid2013/images/i08_20_2.bmp	Comfort noise	0.8212029337882996
+937	tid2013/images/i08.bmp	tid2013/images/i08_20_3.bmp	Comfort noise	0.7206459641456604
+938	tid2013/images/i08.bmp	tid2013/images/i08_20_4.bmp	Comfort noise	0.6286089420318604
+939	tid2013/images/i08.bmp	tid2013/images/i08_20_5.bmp	Comfort noise	0.5120692253112793
+940	tid2013/images/i08.bmp	tid2013/images/i08_21_1.bmp	Lossy compression of noisy images	0.7810071110725403
+941	tid2013/images/i08.bmp	tid2013/images/i08_21_2.bmp	Lossy compression of noisy images	0.6731421947479248
+942	tid2013/images/i08.bmp	tid2013/images/i08_21_3.bmp	Lossy compression of noisy images	0.580604612827301
+943	tid2013/images/i08.bmp	tid2013/images/i08_21_4.bmp	Lossy compression of noisy images	0.5112014412879944
+944	tid2013/images/i08.bmp	tid2013/images/i08_21_5.bmp	Lossy compression of noisy images	0.3492606580257416
+945	tid2013/images/i08.bmp	tid2013/images/i08_22_1.bmp	Image color quantization with dither	0.7703068852424622
+946	tid2013/images/i08.bmp	tid2013/images/i08_22_2.bmp	Image color quantization with dither	0.7471725344657898
+947	tid2013/images/i08.bmp	tid2013/images/i08_22_3.bmp	Image color quantization with dither	0.562097430229187
+948	tid2013/images/i08.bmp	tid2013/images/i08_22_4.bmp	Image color quantization with dither	0.4044940769672394
+949	tid2013/images/i08.bmp	tid2013/images/i08_22_5.bmp	Image color quantization with dither	0.3058834969997406
+950	tid2013/images/i08.bmp	tid2013/images/i08_23_1.bmp	Chromatic aberrations	0.8304572105407715
+951	tid2013/images/i08.bmp	tid2013/images/i08_23_2.bmp	Chromatic aberrations	0.848964512348175
+952	tid2013/images/i08.bmp	tid2013/images/i08_23_3.bmp	Chromatic aberrations	0.7795612812042236
+953	tid2013/images/i08.bmp	tid2013/images/i08_23_4.bmp	Chromatic aberrations	0.7541133165359497
+954	tid2013/images/i08.bmp	tid2013/images/i08_23_5.bmp	Chromatic aberrations	0.7451487183570862
+955	tid2013/images/i08.bmp	tid2013/images/i08_24_1.bmp	Sparse sampling and reconstruction	0.8165757656097412
+956	tid2013/images/i08.bmp	tid2013/images/i08_24_2.bmp	Sparse sampling and reconstruction	0.7944539785385132
+957	tid2013/images/i08.bmp	tid2013/images/i08_24_3.bmp	Sparse sampling and reconstruction	0.7240381240844727
+958	tid2013/images/i08.bmp	tid2013/images/i08_24_4.bmp	Sparse sampling and reconstruction	0.5343358516693115
+959	tid2013/images/i08.bmp	tid2013/images/i08_24_5.bmp	Sparse sampling and reconstruction	0.3417418897151947
+960	tid2013/images/i09.bmp	tid2013/images/i09_01_1.bmp	Additive Gaussian noise	0.734554648399353
+961	tid2013/images/i09.bmp	tid2013/images/i09_01_2.bmp	Additive Gaussian noise	0.6823965311050415
+962	tid2013/images/i09.bmp	tid2013/images/i09_01_3.bmp	Additive Gaussian noise	0.6171988248825073
+963	tid2013/images/i09.bmp	tid2013/images/i09_01_4.bmp	Additive Gaussian noise	0.5435901880264282
+964	tid2013/images/i09.bmp	tid2013/images/i09_01_5.bmp	Additive Gaussian noise	0.4868048429489136
+965	tid2013/images/i09.bmp	tid2013/images/i09_02_1.bmp	Additive Gaussian noise in color	0.8084444999694824
+966	tid2013/images/i09.bmp	tid2013/images/i09_02_2.bmp	Additive Gaussian noise in color	0.8301761150360107
+967	tid2013/images/i09.bmp	tid2013/images/i09_02_3.bmp	Additive Gaussian noise in color	0.7630779147148132
+968	tid2013/images/i09.bmp	tid2013/images/i09_02_4.bmp	Additive Gaussian noise in color	0.6644673347473145
+969	tid2013/images/i09.bmp	tid2013/images/i09_02_5.bmp	Additive Gaussian noise in color	0.6171988248825073
+970	tid2013/images/i09.bmp	tid2013/images/i09_03_1.bmp	Spatially correlated noise	0.6258923411369324
+971	tid2013/images/i09.bmp	tid2013/images/i09_03_2.bmp	Spatially correlated noise	0.5524098873138428
+972	tid2013/images/i09.bmp	tid2013/images/i09_03_3.bmp	Spatially correlated noise	0.4954983592033386
+973	tid2013/images/i09.bmp	tid2013/images/i09_03_4.bmp	Spatially correlated noise	0.43138787150382996
+974	tid2013/images/i09.bmp	tid2013/images/i09_03_5.bmp	Spatially correlated noise	0.37814387679100037
+975	tid2013/images/i09.bmp	tid2013/images/i09_04_1.bmp	Masked noise	0.7888156175613403
+976	tid2013/images/i09.bmp	tid2013/images/i09_04_2.bmp	Masked noise	0.7675601840019226
+977	tid2013/images/i09.bmp	tid2013/images/i09_04_3.bmp	Masked noise	0.7379196882247925
+978	tid2013/images/i09.bmp	tid2013/images/i09_04_4.bmp	Masked noise	0.636127769947052
+979	tid2013/images/i09.bmp	tid2013/images/i09_04_5.bmp	Masked noise	0.5780816078186035
+980	tid2013/images/i09.bmp	tid2013/images/i09_05_1.bmp	High frequency noise	0.8165757656097412
+981	tid2013/images/i09.bmp	tid2013/images/i09_05_2.bmp	High frequency noise	0.7541133165359497
+982	tid2013/images/i09.bmp	tid2013/images/i09_05_3.bmp	High frequency noise	0.6779142022132874
+983	tid2013/images/i09.bmp	tid2013/images/i09_05_4.bmp	High frequency noise	0.5520025491714478
+984	tid2013/images/i09.bmp	tid2013/images/i09_05_5.bmp	High frequency noise	0.48069313168525696
+985	tid2013/images/i09.bmp	tid2013/images/i09_06_1.bmp	Impulse noise	0.7137725949287415
+986	tid2013/images/i09.bmp	tid2013/images/i09_06_2.bmp	Impulse noise	0.5837859511375427
+987	tid2013/images/i09.bmp	tid2013/images/i09_06_3.bmp	Impulse noise	0.562097430229187
+988	tid2013/images/i09.bmp	tid2013/images/i09_06_4.bmp	Impulse noise	0.5120692253112793
+989	tid2013/images/i09.bmp	tid2013/images/i09_06_5.bmp	Impulse noise	0.44483473896980286
+990	tid2013/images/i09.bmp	tid2013/images/i09_07_1.bmp	Quantization noise	0.665010929107666
+991	tid2013/images/i09.bmp	tid2013/images/i09_07_2.bmp	Quantization noise	0.6465381383895874
+992	tid2013/images/i09.bmp	tid2013/images/i09_07_3.bmp	Quantization noise	0.5574702620506287
+993	tid2013/images/i09.bmp	tid2013/images/i09_07_4.bmp	Quantization noise	0.4911523163318634
+994	tid2013/images/i09.bmp	tid2013/images/i09_07_5.bmp	Quantization noise	0.3538878560066223
+995	tid2013/images/i09.bmp	tid2013/images/i09_08_1.bmp	Gaussian blur	0.8079008460044861
+996	tid2013/images/i09.bmp	tid2013/images/i09_08_2.bmp	Gaussian blur	0.7171677350997925
+997	tid2013/images/i09.bmp	tid2013/images/i09_08_3.bmp	Gaussian blur	0.5882682800292969
+998	tid2013/images/i09.bmp	tid2013/images/i09_08_4.bmp	Gaussian blur	0.46507322788238525
+999	tid2013/images/i09.bmp	tid2013/images/i09_08_5.bmp	Gaussian blur	0.3058834969997406
+1000	tid2013/images/i09.bmp	tid2013/images/i09_09_1.bmp	Image denoising	0.9040659070014954
+1001	tid2013/images/i09.bmp	tid2013/images/i09_09_2.bmp	Image denoising	0.838869571685791
+1002	tid2013/images/i09.bmp	tid2013/images/i09_09_3.bmp	Image denoising	0.7041295170783997
+1003	tid2013/images/i09.bmp	tid2013/images/i09_09_4.bmp	Image denoising	0.5255160927772522
+1004	tid2013/images/i09.bmp	tid2013/images/i09_09_5.bmp	Image denoising	0.32598572969436646
+1005	tid2013/images/i09.bmp	tid2013/images/i09_10_1.bmp	JPEG compression	0.8258300423622131
+1006	tid2013/images/i09.bmp	tid2013/images/i09_10_2.bmp	JPEG compression	0.7765247821807861
+1007	tid2013/images/i09.bmp	tid2013/images/i09_10_3.bmp	JPEG compression	0.6689496040344238
+1008	tid2013/images/i09.bmp	tid2013/images/i09_10_4.bmp	JPEG compression	0.42329105734825134
+1009	tid2013/images/i09.bmp	tid2013/images/i09_10_5.bmp	JPEG compression	0.30140119791030884
+1010	tid2013/images/i09.bmp	tid2013/images/i09_11_1.bmp	JPEG2000 compression	0.8123831748962402
+1011	tid2013/images/i09.bmp	tid2013/images/i09_11_2.bmp	JPEG2000 compression	0.7048079967498779
+1012	tid2013/images/i09.bmp	tid2013/images/i09_11_3.bmp	JPEG2000 compression	0.5344806909561157
+1013	tid2013/images/i09.bmp	tid2013/images/i09_11_4.bmp	JPEG2000 compression	0.31036579608917236
+1014	tid2013/images/i09.bmp	tid2013/images/i09_11_5.bmp	JPEG2000 compression	0.09127680212259293
+1015	tid2013/images/i09.bmp	tid2013/images/i09_12_1.bmp	JPEG transmission errors	0.8345235586166382
+1016	tid2013/images/i09.bmp	tid2013/images/i09_12_2.bmp	JPEG transmission errors	0.8123831748962402
+1017	tid2013/images/i09.bmp	tid2013/images/i09_12_3.bmp	JPEG transmission errors	0.6689496040344238
+1018	tid2013/images/i09.bmp	tid2013/images/i09_12_4.bmp	JPEG transmission errors	0.3910471796989441
+1019	tid2013/images/i09.bmp	tid2013/images/i09_12_5.bmp	JPEG transmission errors	0.37311798334121704
+1020	tid2013/images/i09.bmp	tid2013/images/i09_13_1.bmp	JPEG2000 transmission errors	0.6128527522087097
+1021	tid2013/images/i09.bmp	tid2013/images/i09_13_2.bmp	JPEG2000 transmission errors	0.506574273109436
+1022	tid2013/images/i09.bmp	tid2013/images/i09_13_3.bmp	JPEG2000 transmission errors	0.44334015250205994
+1023	tid2013/images/i09.bmp	tid2013/images/i09_13_4.bmp	JPEG2000 transmission errors	0.3694503903388977
+1024	tid2013/images/i09.bmp	tid2013/images/i09_13_5.bmp	JPEG2000 transmission errors	0.37814387679100037
+1025	tid2013/images/i09.bmp	tid2013/images/i09_14_1.bmp	Non eccentricity pattern noise	0.8034185767173767
+1026	tid2013/images/i09.bmp	tid2013/images/i09_14_2.bmp	Non eccentricity pattern noise	0.7519402503967285
+1027	tid2013/images/i09.bmp	tid2013/images/i09_14_3.bmp	Non eccentricity pattern noise	0.8661707639694214
+1028	tid2013/images/i09.bmp	tid2013/images/i09_14_4.bmp	Non eccentricity pattern noise	0.6017151474952698
+1029	tid2013/images/i09.bmp	tid2013/images/i09_14_5.bmp	Non eccentricity pattern noise	0.4403524398803711
+1030	tid2013/images/i09.bmp	tid2013/images/i09_15_1.bmp	Local block-wise distortions of different intensity	0.382489949464798
+1031	tid2013/images/i09.bmp	tid2013/images/i09_15_2.bmp	Local block-wise distortions of different intensity	0.4042229950428009
+1032	tid2013/images/i09.bmp	tid2013/images/i09_15_3.bmp	Local block-wise distortions of different intensity	0.43138787150382996
+1033	tid2013/images/i09.bmp	tid2013/images/i09_15_4.bmp	Local block-wise distortions of different intensity	0.48069313168525696
+1034	tid2013/images/i09.bmp	tid2013/images/i09_15_5.bmp	Local block-wise distortions of different intensity	0.804097056388855
+1035	tid2013/images/i09.bmp	tid2013/images/i09_16_1.bmp	Mean shift (intensity shift)	0.8345235586166382
+1036	tid2013/images/i09.bmp	tid2013/images/i09_16_2.bmp	Mean shift (intensity shift)	0.8692947030067444
+1037	tid2013/images/i09.bmp	tid2013/images/i09_16_3.bmp	Mean shift (intensity shift)	0.789971649646759
+1038	tid2013/images/i09.bmp	tid2013/images/i09_16_4.bmp	Mean shift (intensity shift)	0.8119500279426575
+1039	tid2013/images/i09.bmp	tid2013/images/i09_16_5.bmp	Mean shift (intensity shift)	0.6345857977867126
+1040	tid2013/images/i09.bmp	tid2013/images/i09_17_1.bmp	Contrast change	0.7989362478256226
+1041	tid2013/images/i09.bmp	tid2013/images/i09_17_2.bmp	Contrast change	0.9388384819030762
+1042	tid2013/images/i09.bmp	tid2013/images/i09_17_3.bmp	Contrast change	0.6510204076766968
+1043	tid2013/images/i09.bmp	tid2013/images/i09_17_4.bmp	Contrast change	0.8779882192611694
+1044	tid2013/images/i09.bmp	tid2013/images/i09_17_5.bmp	Contrast change	0.48245880007743835
+1045	tid2013/images/i09.bmp	tid2013/images/i09_18_1.bmp	Change of color saturation	0.6563174724578857
+1046	tid2013/images/i09.bmp	tid2013/images/i09_18_2.bmp	Change of color saturation	0.5824276208877563
+1047	tid2013/images/i09.bmp	tid2013/images/i09_18_3.bmp	Change of color saturation	0.5482173562049866
+1048	tid2013/images/i09.bmp	tid2013/images/i09_18_4.bmp	Change of color saturation	0.4403524398803711
+1049	tid2013/images/i09.bmp	tid2013/images/i09_18_5.bmp	Change of color saturation	0.41794097423553467
+1050	tid2013/images/i09.bmp	tid2013/images/i09_19_1.bmp	Multiplicative Gaussian noise	0.7541133165359497
+1051	tid2013/images/i09.bmp	tid2013/images/i09_19_2.bmp	Multiplicative Gaussian noise	0.636127769947052
+1052	tid2013/images/i09.bmp	tid2013/images/i09_19_3.bmp	Multiplicative Gaussian noise	0.6129933595657349
+1053	tid2013/images/i09.bmp	tid2013/images/i09_19_4.bmp	Multiplicative Gaussian noise	0.5479276180267334
+1054	tid2013/images/i09.bmp	tid2013/images/i09_19_5.bmp	Multiplicative Gaussian noise	0.46507322788238525
+1055	tid2013/images/i09.bmp	tid2013/images/i09_20_1.bmp	Comfort noise	0.7989362478256226
+1056	tid2013/images/i09.bmp	tid2013/images/i09_20_2.bmp	Comfort noise	0.778019368648529
+1057	tid2013/images/i09.bmp	tid2013/images/i09_20_3.bmp	Comfort noise	0.6106797456741333
+1058	tid2013/images/i09.bmp	tid2013/images/i09_20_4.bmp	Comfort noise	0.525923490524292
+1059	tid2013/images/i09.bmp	tid2013/images/i09_20_5.bmp	Comfort noise	0.382489949464798
+1060	tid2013/images/i09.bmp	tid2013/images/i09_21_1.bmp	Lossy compression of noisy images	0.7215151190757751
+1061	tid2013/images/i09.bmp	tid2013/images/i09_21_2.bmp	Lossy compression of noisy images	0.6555027365684509
+1062	tid2013/images/i09.bmp	tid2013/images/i09_21_3.bmp	Lossy compression of noisy images	0.5748213529586792
+1063	tid2013/images/i09.bmp	tid2013/images/i09_21_4.bmp	Lossy compression of noisy images	0.46724623441696167
+1064	tid2013/images/i09.bmp	tid2013/images/i09_21_5.bmp	Lossy compression of noisy images	0.2752303183078766
+1065	tid2013/images/i09.bmp	tid2013/images/i09_22_1.bmp	Image color quantization with dither	0.7854893803596497
+1066	tid2013/images/i09.bmp	tid2013/images/i09_22_2.bmp	Image color quantization with dither	0.7954049110412598
+1067	tid2013/images/i09.bmp	tid2013/images/i09_22_3.bmp	Image color quantization with dither	0.7541133165359497
+1068	tid2013/images/i09.bmp	tid2013/images/i09_22_4.bmp	Image color quantization with dither	0.5524098873138428
+1069	tid2013/images/i09.bmp	tid2013/images/i09_22_5.bmp	Image color quantization with dither	0.35518878698349
+1070	tid2013/images/i09.bmp	tid2013/images/i09_23_1.bmp	Chromatic aberrations	0.8616884350776672
+1071	tid2013/images/i09.bmp	tid2013/images/i09_23_2.bmp	Chromatic aberrations	0.8661707639694214
+1072	tid2013/images/i09.bmp	tid2013/images/i09_23_3.bmp	Chromatic aberrations	0.8301761150360107
+1073	tid2013/images/i09.bmp	tid2013/images/i09_23_4.bmp	Chromatic aberrations	0.6555027365684509
+1074	tid2013/images/i09.bmp	tid2013/images/i09_23_5.bmp	Chromatic aberrations	0.3776002824306488
+1075	tid2013/images/i09.bmp	tid2013/images/i09_24_1.bmp	Sparse sampling and reconstruction	0.789971649646759
+1076	tid2013/images/i09.bmp	tid2013/images/i09_24_2.bmp	Sparse sampling and reconstruction	0.6958433985710144
+1077	tid2013/images/i09.bmp	tid2013/images/i09_24_3.bmp	Sparse sampling and reconstruction	0.5031046271324158
+1078	tid2013/images/i09.bmp	tid2013/images/i09_24_4.bmp	Sparse sampling and reconstruction	0.25644195079803467
+1079	tid2013/images/i09.bmp	tid2013/images/i09_24_5.bmp	Sparse sampling and reconstruction	0.0
+0	tid2013/images/i01.bmp	tid2013/images/i01_01_1.bmp	Additive Gaussian noise	0.7561629414558411
+1	tid2013/images/i01.bmp	tid2013/images/i01_01_2.bmp	Additive Gaussian noise	0.7638051509857178
+2	tid2013/images/i01.bmp	tid2013/images/i01_01_3.bmp	Additive Gaussian noise	0.674427330493927
+3	tid2013/images/i01.bmp	tid2013/images/i01_01_4.bmp	Additive Gaussian noise	0.5932353138923645
+4	tid2013/images/i01.bmp	tid2013/images/i01_01_5.bmp	Additive Gaussian noise	0.5195794105529785
+5	tid2013/images/i01.bmp	tid2013/images/i01_02_1.bmp	Additive Gaussian noise in color	0.8299279808998108
+6	tid2013/images/i01.bmp	tid2013/images/i01_02_2.bmp	Additive Gaussian noise in color	0.8413366675376892
+7	tid2013/images/i01.bmp	tid2013/images/i01_02_3.bmp	Additive Gaussian noise in color	0.7381763458251953
+8	tid2013/images/i01.bmp	tid2013/images/i01_02_4.bmp	Additive Gaussian noise in color	0.6414161324501038
+9	tid2013/images/i01.bmp	tid2013/images/i01_02_5.bmp	Additive Gaussian noise in color	0.5907583236694336
+10	tid2013/images/i01.bmp	tid2013/images/i01_03_1.bmp	Spatially correlated noise	0.6496118903160095
+11	tid2013/images/i01.bmp	tid2013/images/i01_03_2.bmp	Spatially correlated noise	0.5777287483215332
+12	tid2013/images/i01.bmp	tid2013/images/i01_03_3.bmp	Spatially correlated noise	0.4963202178478241
+13	tid2013/images/i01.bmp	tid2013/images/i01_03_4.bmp	Spatially correlated noise	0.42341867089271545
+14	tid2013/images/i01.bmp	tid2013/images/i01_03_5.bmp	Spatially correlated noise	0.3545490503311157
+15	tid2013/images/i01.bmp	tid2013/images/i01_04_1.bmp	Masked noise	0.8217321634292603
+16	tid2013/images/i01.bmp	tid2013/images/i01_04_2.bmp	Masked noise	0.7909412980079651
+17	tid2013/images/i01.bmp	tid2013/images/i01_04_3.bmp	Masked noise	0.7211622595787048
+18	tid2013/images/i01.bmp	tid2013/images/i01_04_4.bmp	Masked noise	0.7172852754592896
+19	tid2013/images/i01.bmp	tid2013/images/i01_04_5.bmp	Masked noise	0.6414161324501038
+20	tid2013/images/i01.bmp	tid2013/images/i01_05_1.bmp	High frequency noise	0.8142004609107971
+21	tid2013/images/i01.bmp	tid2013/images/i01_05_2.bmp	High frequency noise	0.7831872701644897
+22	tid2013/images/i01.bmp	tid2013/images/i01_05_3.bmp	High frequency noise	0.6943488717079163
+23	tid2013/images/i01.bmp	tid2013/images/i01_05_4.bmp	High frequency noise	0.5588844418525696
+24	tid2013/images/i01.bmp	tid2013/images/i01_05_5.bmp	High frequency noise	0.41545096039772034
+25	tid2013/images/i01.bmp	tid2013/images/i01_06_1.bmp	Impulse noise	0.5389630198478699
+26	tid2013/images/i01.bmp	tid2013/images/i01_06_2.bmp	Impulse noise	0.5234563946723938
+27	tid2013/images/i01.bmp	tid2013/images/i01_06_3.bmp	Impulse noise	0.5001972317695618
+28	tid2013/images/i01.bmp	tid2013/images/i01_06_4.bmp	Impulse noise	0.46519654989242554
+29	tid2013/images/i01.bmp	tid2013/images/i01_06_5.bmp	Impulse noise	0.38756027817726135
+30	tid2013/images/i01.bmp	tid2013/images/i01_07_1.bmp	Quantization noise	0.6943488717079163
+31	tid2013/images/i01.bmp	tid2013/images/i01_07_2.bmp	Quantization noise	0.6465381383895874
+32	tid2013/images/i01.bmp	tid2013/images/i01_07_3.bmp	Quantization noise	0.5389630198478699
+33	tid2013/images/i01.bmp	tid2013/images/i01_07_4.bmp	Quantization noise	0.4274032711982727
+34	tid2013/images/i01.bmp	tid2013/images/i01_07_5.bmp	Quantization noise	0.27998512983322144
+35	tid2013/images/i01.bmp	tid2013/images/i01_08_1.bmp	Gaussian blur	0.7095326781272888
+36	tid2013/images/i01.bmp	tid2013/images/i01_08_2.bmp	Gaussian blur	0.6066951751708984
+37	tid2013/images/i01.bmp	tid2013/images/i01_08_3.bmp	Gaussian blur	0.46530845761299133
+38	tid2013/images/i01.bmp	tid2013/images/i01_08_4.bmp	Gaussian blur	0.39552947878837585
+39	tid2013/images/i01.bmp	tid2013/images/i01_08_5.bmp	Gaussian blur	0.26803281903266907
+40	tid2013/images/i01.bmp	tid2013/images/i01_09_1.bmp	Image denoising	0.8377823829650879
+41	tid2013/images/i01.bmp	tid2013/images/i01_09_2.bmp	Image denoising	0.7063025832176208
+42	tid2013/images/i01.bmp	tid2013/images/i01_09_3.bmp	Image denoising	0.6004342436790466
+43	tid2013/images/i01.bmp	tid2013/images/i01_09_4.bmp	Image denoising	0.36839330196380615
+44	tid2013/images/i01.bmp	tid2013/images/i01_09_5.bmp	Image denoising	0.18619395792484283
+45	tid2013/images/i01.bmp	tid2013/images/i01_10_1.bmp	JPEG compression	0.8219530582427979
+46	tid2013/images/i01.bmp	tid2013/images/i01_10_2.bmp	JPEG compression	0.8180775046348572
+47	tid2013/images/i01.bmp	tid2013/images/i01_10_3.bmp	JPEG compression	0.6704441905021667
+48	tid2013/images/i01.bmp	tid2013/images/i01_10_4.bmp	JPEG compression	0.4265426695346832
+49	tid2013/images/i01.bmp	tid2013/images/i01_10_5.bmp	JPEG compression	0.26372551918029785
+50	tid2013/images/i01.bmp	tid2013/images/i01_11_1.bmp	JPEG2000 compression	0.8135363459587097
+51	tid2013/images/i01.bmp	tid2013/images/i01_11_2.bmp	JPEG2000 compression	0.7793117165565491
+52	tid2013/images/i01.bmp	tid2013/images/i01_11_3.bmp	JPEG2000 compression	0.6385689377784729
+53	tid2013/images/i01.bmp	tid2013/images/i01_11_4.bmp	JPEG2000 compression	0.49244463443756104
+54	tid2013/images/i01.bmp	tid2013/images/i01_11_5.bmp	JPEG2000 compression	0.17456436157226562
+55	tid2013/images/i01.bmp	tid2013/images/i01_12_1.bmp	JPEG transmission errors	0.8180775046348572
+56	tid2013/images/i01.bmp	tid2013/images/i01_12_2.bmp	JPEG transmission errors	0.8064464926719666
+57	tid2013/images/i01.bmp	tid2013/images/i01_12_3.bmp	JPEG transmission errors	0.5699762105941772
+58	tid2013/images/i01.bmp	tid2013/images/i01_12_4.bmp	JPEG transmission errors	0.5150569081306458
+59	tid2013/images/i01.bmp	tid2013/images/i01_12_5.bmp	JPEG transmission errors	0.457554429769516
+60	tid2013/images/i01.bmp	tid2013/images/i01_13_1.bmp	JPEG2000 transmission errors	0.7482984662055969
+61	tid2013/images/i01.bmp	tid2013/images/i01_13_2.bmp	JPEG2000 transmission errors	0.5266693234443665
+62	tid2013/images/i01.bmp	tid2013/images/i01_13_3.bmp	JPEG2000 transmission errors	0.4353724420070648
+63	tid2013/images/i01.bmp	tid2013/images/i01_13_4.bmp	JPEG2000 transmission errors	0.4194355607032776
+64	tid2013/images/i01.bmp	tid2013/images/i01_13_5.bmp	JPEG2000 transmission errors	0.41103607416152954
+65	tid2013/images/i01.bmp	tid2013/images/i01_14_1.bmp	Non eccentricity pattern noise	0.7820025086402893
+66	tid2013/images/i01.bmp	tid2013/images/i01_14_2.bmp	Non eccentricity pattern noise	0.8335826396942139
+67	tid2013/images/i01.bmp	tid2013/images/i01_14_3.bmp	Non eccentricity pattern noise	0.7909412980079651
+68	tid2013/images/i01.bmp	tid2013/images/i01_14_4.bmp	Non eccentricity pattern noise	0.7620824575424194
+69	tid2013/images/i01.bmp	tid2013/images/i01_14_5.bmp	Non eccentricity pattern noise	0.6064614057540894
+70	tid2013/images/i01.bmp	tid2013/images/i01_15_1.bmp	Local block-wise distortions of different intensity	0.3716233968734741
+71	tid2013/images/i01.bmp	tid2013/images/i01_15_2.bmp	Local block-wise distortions of different intensity	0.3709406554698944
+72	tid2013/images/i01.bmp	tid2013/images/i01_15_3.bmp	Local block-wise distortions of different intensity	0.41103607416152954
+73	tid2013/images/i01.bmp	tid2013/images/i01_15_4.bmp	Local block-wise distortions of different intensity	0.47919854521751404
+74	tid2013/images/i01.bmp	tid2013/images/i01_15_5.bmp	Local block-wise distortions of different intensity	0.5234563946723938
+75	tid2013/images/i01.bmp	tid2013/images/i01_16_1.bmp	Mean shift (intensity shift)	0.7979408502578735
+76	tid2013/images/i01.bmp	tid2013/images/i01_16_2.bmp	Mean shift (intensity shift)	0.8335826396942139
+77	tid2013/images/i01.bmp	tid2013/images/i01_16_3.bmp	Mean shift (intensity shift)	0.6664596199989319
+78	tid2013/images/i01.bmp	tid2013/images/i01_16_4.bmp	Mean shift (intensity shift)	0.6863811016082764
+79	tid2013/images/i01.bmp	tid2013/images/i01_16_5.bmp	Mean shift (intensity shift)	0.5668522119522095
+80	tid2013/images/i01.bmp	tid2013/images/i01_17_1.bmp	Contrast change	0.7327919006347656
+81	tid2013/images/i01.bmp	tid2013/images/i01_17_2.bmp	Contrast change	0.9149912595748901
+82	tid2013/images/i01.bmp	tid2013/images/i01_17_3.bmp	Contrast change	0.5505926012992859
+83	tid2013/images/i01.bmp	tid2013/images/i01_17_4.bmp	Contrast change	0.860718846321106
+84	tid2013/images/i01.bmp	tid2013/images/i01_17_5.bmp	Contrast change	0.391431599855423
+85	tid2013/images/i01.bmp	tid2013/images/i01_18_1.bmp	Change of color saturation	0.6281241774559021
+86	tid2013/images/i01.bmp	tid2013/images/i01_18_2.bmp	Change of color saturation	0.5708367824554443
+87	tid2013/images/i01.bmp	tid2013/images/i01_18_3.bmp	Change of color saturation	0.5061784386634827
+88	tid2013/images/i01.bmp	tid2013/images/i01_18_4.bmp	Change of color saturation	0.4632616639137268
+89	tid2013/images/i01.bmp	tid2013/images/i01_18_5.bmp	Change of color saturation	0.4552939236164093
+90	tid2013/images/i01.bmp	tid2013/images/i01_19_1.bmp	Multiplicative Gaussian noise	0.8178609013557434
+91	tid2013/images/i01.bmp	tid2013/images/i01_19_2.bmp	Multiplicative Gaussian noise	0.7501286864280701
+92	tid2013/images/i01.bmp	tid2013/images/i01_19_3.bmp	Multiplicative Gaussian noise	0.6940261125564575
+93	tid2013/images/i01.bmp	tid2013/images/i01_19_4.bmp	Multiplicative Gaussian noise	0.6146643161773682
+94	tid2013/images/i01.bmp	tid2013/images/i01_19_5.bmp	Multiplicative Gaussian noise	0.5309938192367554
+95	tid2013/images/i01.bmp	tid2013/images/i01_20_1.bmp	Comfort noise	0.8053391575813293
+96	tid2013/images/i01.bmp	tid2013/images/i01_20_2.bmp	Comfort noise	0.8019239902496338
+97	tid2013/images/i01.bmp	tid2013/images/i01_20_3.bmp	Comfort noise	0.8298146724700928
+98	tid2013/images/i01.bmp	tid2013/images/i01_20_4.bmp	Comfort noise	0.6943488717079163
+99	tid2013/images/i01.bmp	tid2013/images/i01_20_5.bmp	Comfort noise	0.586773693561554
+100	tid2013/images/i01.bmp	tid2013/images/i01_21_1.bmp	Lossy compression of noisy images	0.7831872701644897
+101	tid2013/images/i01.bmp	tid2013/images/i01_21_2.bmp	Lossy compression of noisy images	0.7222394943237305
+102	tid2013/images/i01.bmp	tid2013/images/i01_21_3.bmp	Lossy compression of noisy images	0.6358782052993774
+103	tid2013/images/i01.bmp	tid2013/images/i01_21_4.bmp	Lossy compression of noisy images	0.5471587777137756
+104	tid2013/images/i01.bmp	tid2013/images/i01_21_5.bmp	Lossy compression of noisy images	0.4032820463180542
+105	tid2013/images/i01.bmp	tid2013/images/i01_22_1.bmp	Image color quantization with dither	0.7620824575424194
+106	tid2013/images/i01.bmp	tid2013/images/i01_22_2.bmp	Image color quantization with dither	0.7095326781272888
+107	tid2013/images/i01.bmp	tid2013/images/i01_22_3.bmp	Image color quantization with dither	0.5827905535697937
+108	tid2013/images/i01.bmp	tid2013/images/i01_22_4.bmp	Image color quantization with dither	0.4187886416912079
+109	tid2013/images/i01.bmp	tid2013/images/i01_22_5.bmp	Image color quantization with dither	0.27998512983322144
+110	tid2013/images/i01.bmp	tid2013/images/i01_23_1.bmp	Chromatic aberrations	0.8668104410171509
+111	tid2013/images/i01.bmp	tid2013/images/i01_23_2.bmp	Chromatic aberrations	0.7700502276420593
+112	tid2013/images/i01.bmp	tid2013/images/i01_23_3.bmp	Chromatic aberrations	0.7939562797546387
+113	tid2013/images/i01.bmp	tid2013/images/i01_23_4.bmp	Chromatic aberrations	0.6545073390007019
+114	tid2013/images/i01.bmp	tid2013/images/i01_23_5.bmp	Chromatic aberrations	0.3102453351020813
+115	tid2013/images/i01.bmp	tid2013/images/i01_24_1.bmp	Sparse sampling and reconstruction	0.7831872701644897
+116	tid2013/images/i01.bmp	tid2013/images/i01_24_2.bmp	Sparse sampling and reconstruction	0.7660656571388245
+117	tid2013/images/i01.bmp	tid2013/images/i01_24_3.bmp	Sparse sampling and reconstruction	0.6979030966758728
+118	tid2013/images/i01.bmp	tid2013/images/i01_24_4.bmp	Sparse sampling and reconstruction	0.40715906023979187
+119	tid2013/images/i01.bmp	tid2013/images/i01_24_5.bmp	Sparse sampling and reconstruction	0.03113081492483616
+360	tid2013/images/i04.bmp	tid2013/images/i04_01_1.bmp	Additive Gaussian noise	0.7916785478591919
+361	tid2013/images/i04.bmp	tid2013/images/i04_01_2.bmp	Additive Gaussian noise	0.7506981492042542
+362	tid2013/images/i04.bmp	tid2013/images/i04_01_3.bmp	Additive Gaussian noise	0.6721510291099548
+363	tid2013/images/i04.bmp	tid2013/images/i04_01_4.bmp	Additive Gaussian noise	0.5774447917938232
+364	tid2013/images/i04.bmp	tid2013/images/i04_01_5.bmp	Additive Gaussian noise	0.5389630198478699
+365	tid2013/images/i04.bmp	tid2013/images/i04_02_1.bmp	Additive Gaussian noise in color	0.8652743101119995
+366	tid2013/images/i04.bmp	tid2013/images/i04_02_2.bmp	Additive Gaussian noise in color	0.8478973507881165
+367	tid2013/images/i04.bmp	tid2013/images/i04_02_3.bmp	Additive Gaussian noise in color	0.7803515791893005
+368	tid2013/images/i04.bmp	tid2013/images/i04_02_4.bmp	Additive Gaussian noise in color	0.72679203748703
+369	tid2013/images/i04.bmp	tid2013/images/i04_02_5.bmp	Additive Gaussian noise in color	0.6159279942512512
+370	tid2013/images/i04.bmp	tid2013/images/i04_03_1.bmp	Spatially correlated noise	0.6509113907814026
+371	tid2013/images/i04.bmp	tid2013/images/i04_03_2.bmp	Spatially correlated noise	0.5696994066238403
+372	tid2013/images/i04.bmp	tid2013/images/i04_03_3.bmp	Spatially correlated noise	0.5246196985244751
+373	tid2013/images/i04.bmp	tid2013/images/i04_03_4.bmp	Spatially correlated noise	0.4564887285232544
+374	tid2013/images/i04.bmp	tid2013/images/i04_03_5.bmp	Spatially correlated noise	0.398944616317749
+375	tid2013/images/i04.bmp	tid2013/images/i04_04_1.bmp	Masked noise	0.8437592387199402
+376	tid2013/images/i04.bmp	tid2013/images/i04_04_2.bmp	Masked noise	0.8643118739128113
+377	tid2013/images/i04.bmp	tid2013/images/i04_04_3.bmp	Masked noise	0.8473451137542725
+378	tid2013/images/i04.bmp	tid2013/images/i04_04_4.bmp	Masked noise	0.7506981492042542
+379	tid2013/images/i04.bmp	tid2013/images/i04_04_5.bmp	Masked noise	0.6550752520561218
+380	tid2013/images/i04.bmp	tid2013/images/i04_05_1.bmp	High frequency noise	0.8702256083488464
+381	tid2013/images/i04.bmp	tid2013/images/i04_05_2.bmp	High frequency noise	0.8118367195129395
+382	tid2013/images/i04.bmp	tid2013/images/i04_05_3.bmp	High frequency noise	0.7290123701095581
+383	tid2013/images/i04.bmp	tid2013/images/i04_05_4.bmp	High frequency noise	0.6072646379470825
+384	tid2013/images/i04.bmp	tid2013/images/i04_05_5.bmp	High frequency noise	0.4969828724861145
+385	tid2013/images/i04.bmp	tid2013/images/i04_06_1.bmp	Impulse noise	0.6858116388320923
+386	tid2013/images/i04.bmp	tid2013/images/i04_06_2.bmp	Impulse noise	0.6194263100624084
+387	tid2013/images/i04.bmp	tid2013/images/i04_06_3.bmp	Impulse noise	0.5765281915664673
+388	tid2013/images/i04.bmp	tid2013/images/i04_06_4.bmp	Impulse noise	0.566949725151062
+389	tid2013/images/i04.bmp	tid2013/images/i04_06_5.bmp	Impulse noise	0.4600745737552643
+390	tid2013/images/i04.bmp	tid2013/images/i04_07_1.bmp	Quantization noise	0.638001024723053
+391	tid2013/images/i04.bmp	tid2013/images/i04_07_2.bmp	Quantization noise	0.5497205257415771
+392	tid2013/images/i04.bmp	tid2013/images/i04_07_3.bmp	Quantization noise	0.47066137194633484
+393	tid2013/images/i04.bmp	tid2013/images/i04_07_4.bmp	Quantization noise	0.41602039337158203
+394	tid2013/images/i04.bmp	tid2013/images/i04_07_5.bmp	Quantization noise	0.38869914412498474
+395	tid2013/images/i04.bmp	tid2013/images/i04_08_1.bmp	Gaussian blur	0.8702256083488464
+396	tid2013/images/i04.bmp	tid2013/images/i04_08_2.bmp	Gaussian blur	0.8153349757194519
+397	tid2013/images/i04.bmp	tid2013/images/i04_08_3.bmp	Gaussian blur	0.7370375394821167
+398	tid2013/images/i04.bmp	tid2013/images/i04_08_4.bmp	Gaussian blur	0.5927505493164062
+399	tid2013/images/i04.bmp	tid2013/images/i04_08_5.bmp	Gaussian blur	0.4911523163318634
+400	tid2013/images/i04.bmp	tid2013/images/i04_09_1.bmp	Image denoising	0.8804710507392883
+401	tid2013/images/i04.bmp	tid2013/images/i04_09_2.bmp	Image denoising	0.797843337059021
+402	tid2013/images/i04.bmp	tid2013/images/i04_09_3.bmp	Image denoising	0.6893932223320007
+403	tid2013/images/i04.bmp	tid2013/images/i04_09_4.bmp	Image denoising	0.507477879524231
+404	tid2013/images/i04.bmp	tid2013/images/i04_09_5.bmp	Image denoising	0.32381269335746765
+405	tid2013/images/i04.bmp	tid2013/images/i04_10_1.bmp	JPEG compression	0.8360755443572998
+406	tid2013/images/i04.bmp	tid2013/images/i04_10_2.bmp	JPEG compression	0.8223316669464111
+407	tid2013/images/i04.bmp	tid2013/images/i04_10_3.bmp	JPEG compression	0.6926420331001282
+408	tid2013/images/i04.bmp	tid2013/images/i04_10_4.bmp	JPEG compression	0.43309471011161804
+409	tid2013/images/i04.bmp	tid2013/images/i04_10_5.bmp	JPEG compression	0.27941715717315674
+410	tid2013/images/i04.bmp	tid2013/images/i04_11_1.bmp	JPEG2000 compression	0.7254266142845154
+411	tid2013/images/i04.bmp	tid2013/images/i04_11_2.bmp	JPEG2000 compression	0.5389630198478699
+412	tid2013/images/i04.bmp	tid2013/images/i04_11_3.bmp	JPEG2000 compression	0.3815360963344574
+413	tid2013/images/i04.bmp	tid2013/images/i04_11_4.bmp	JPEG2000 compression	0.25209593772888184
+414	tid2013/images/i04.bmp	tid2013/images/i04_11_5.bmp	JPEG2000 compression	0.09158661216497421
+415	tid2013/images/i04.bmp	tid2013/images/i04_12_1.bmp	JPEG transmission errors	0.8330017924308777
+416	tid2013/images/i04.bmp	tid2013/images/i04_12_2.bmp	JPEG transmission errors	0.6311706304550171
+417	tid2013/images/i04.bmp	tid2013/images/i04_12_3.bmp	JPEG transmission errors	0.528717577457428
+418	tid2013/images/i04.bmp	tid2013/images/i04_12_4.bmp	JPEG transmission errors	0.381868839263916
+419	tid2013/images/i04.bmp	tid2013/images/i04_12_5.bmp	JPEG transmission errors	0.34655267000198364
+420	tid2013/images/i04.bmp	tid2013/images/i04_13_1.bmp	JPEG2000 transmission errors	0.6345857977867126
+421	tid2013/images/i04.bmp	tid2013/images/i04_13_2.bmp	JPEG2000 transmission errors	0.5168957710266113
+422	tid2013/images/i04.bmp	tid2013/images/i04_13_3.bmp	JPEG2000 transmission errors	0.4467553496360779
+423	tid2013/images/i04.bmp	tid2013/images/i04_13_4.bmp	JPEG2000 transmission errors	0.46199798583984375
+424	tid2013/images/i04.bmp	tid2013/images/i04_13_5.bmp	JPEG2000 transmission errors	0.30673694610595703
+425	tid2013/images/i04.bmp	tid2013/images/i04_14_1.bmp	Non eccentricity pattern noise	0.6926420331001282
+426	tid2013/images/i04.bmp	tid2013/images/i04_14_2.bmp	Non eccentricity pattern noise	0.8838862180709839
+427	tid2013/images/i04.bmp	tid2013/images/i04_14_3.bmp	Non eccentricity pattern noise	0.8258300423622131
+428	tid2013/images/i04.bmp	tid2013/images/i04_14_4.bmp	Non eccentricity pattern noise	0.5970191359519958
+429	tid2013/images/i04.bmp	tid2013/images/i04_14_5.bmp	Non eccentricity pattern noise	0.48298951983451843
+430	tid2013/images/i04.bmp	tid2013/images/i04_15_1.bmp	Local block-wise distortions of different intensity	0.45017048716545105
+431	tid2013/images/i04.bmp	tid2013/images/i04_15_2.bmp	Local block-wise distortions of different intensity	0.4535856246948242
+432	tid2013/images/i04.bmp	tid2013/images/i04_15_3.bmp	Local block-wise distortions of different intensity	0.46724623441696167
+433	tid2013/images/i04.bmp	tid2013/images/i04_15_4.bmp	Local block-wise distortions of different intensity	0.5039795637130737
+434	tid2013/images/i04.bmp	tid2013/images/i04_15_5.bmp	Local block-wise distortions of different intensity	0.5463182926177979
+435	tid2013/images/i04.bmp	tid2013/images/i04_16_1.bmp	Mean shift (intensity shift)	0.8668104410171509
+436	tid2013/images/i04.bmp	tid2013/images/i04_16_2.bmp	Mean shift (intensity shift)	0.9180377125740051
+437	tid2013/images/i04.bmp	tid2013/images/i04_16_3.bmp	Mean shift (intensity shift)	0.8394907116889954
+438	tid2013/images/i04.bmp	tid2013/images/i04_16_4.bmp	Mean shift (intensity shift)	0.778019368648529
+439	tid2013/images/i04.bmp	tid2013/images/i04_16_5.bmp	Mean shift (intensity shift)	0.7044637799263
+440	tid2013/images/i04.bmp	tid2013/images/i04_17_1.bmp	Contrast change	0.8258300423622131
+441	tid2013/images/i04.bmp	tid2013/images/i04_17_2.bmp	Contrast change	0.9214528799057007
+442	tid2013/images/i04.bmp	tid2013/images/i04_17_3.bmp	Contrast change	0.6509113907814026
+443	tid2013/images/i04.bmp	tid2013/images/i04_17_4.bmp	Contrast change	1.0
+444	tid2013/images/i04.bmp	tid2013/images/i04_17_5.bmp	Contrast change	0.5282055139541626
+445	tid2013/images/i04.bmp	tid2013/images/i04_18_1.bmp	Change of color saturation	0.7418683767318726
+446	tid2013/images/i04.bmp	tid2013/images/i04_18_2.bmp	Change of color saturation	0.6858949065208435
+447	tid2013/images/i04.bmp	tid2013/images/i04_18_3.bmp	Change of color saturation	0.6345857977867126
+448	tid2013/images/i04.bmp	tid2013/images/i04_18_4.bmp	Change of color saturation	0.5731145739555359
+449	tid2013/images/i04.bmp	tid2013/images/i04_18_5.bmp	Change of color saturation	0.5284680128097534
+450	tid2013/images/i04.bmp	tid2013/images/i04_19_1.bmp	Multiplicative Gaussian noise	0.7472830414772034
+451	tid2013/images/i04.bmp	tid2013/images/i04_19_2.bmp	Multiplicative Gaussian noise	0.7336223721504211
+452	tid2013/images/i04.bmp	tid2013/images/i04_19_3.bmp	Multiplicative Gaussian noise	0.668403148651123
+453	tid2013/images/i04.bmp	tid2013/images/i04_19_4.bmp	Multiplicative Gaussian noise	0.599922239780426
+454	tid2013/images/i04.bmp	tid2013/images/i04_19_5.bmp	Multiplicative Gaussian noise	0.5628690719604492
+455	tid2013/images/i04.bmp	tid2013/images/i04_20_1.bmp	Comfort noise	0.890716552734375
+456	tid2013/images/i04.bmp	tid2013/images/i04_20_2.bmp	Comfort noise	0.7146690487861633
+457	tid2013/images/i04.bmp	tid2013/images/i04_20_3.bmp	Comfort noise	0.5662842392921448
+458	tid2013/images/i04.bmp	tid2013/images/i04_20_4.bmp	Comfort noise	0.4126052260398865
+459	tid2013/images/i04.bmp	tid2013/images/i04_20_5.bmp	Comfort noise	0.3115677833557129
+460	tid2013/images/i04.bmp	tid2013/images/i04_21_1.bmp	Lossy compression of noisy images	0.7033865451812744
+461	tid2013/images/i04.bmp	tid2013/images/i04_21_2.bmp	Lossy compression of noisy images	0.6439147591590881
+462	tid2013/images/i04.bmp	tid2013/images/i04_21_3.bmp	Lossy compression of noisy images	0.511641800403595
+463	tid2013/images/i04.bmp	tid2013/images/i04_21_4.bmp	Lossy compression of noisy images	0.4270145893096924
+464	tid2013/images/i04.bmp	tid2013/images/i04_21_5.bmp	Lossy compression of noisy images	0.25209593772888184
+465	tid2013/images/i04.bmp	tid2013/images/i04_22_1.bmp	Image color quantization with dither	0.8293284177780151
+466	tid2013/images/i04.bmp	tid2013/images/i04_22_2.bmp	Image color quantization with dither	0.7950936555862427
+467	tid2013/images/i04.bmp	tid2013/images/i04_22_3.bmp	Image color quantization with dither	0.6004342436790466
+468	tid2013/images/i04.bmp	tid2013/images/i04_22_4.bmp	Image color quantization with dither	0.5564547777175903
+469	tid2013/images/i04.bmp	tid2013/images/i04_22_5.bmp	Image color quantization with dither	0.381868839263916
+470	tid2013/images/i04.bmp	tid2013/images/i04_23_1.bmp	Chromatic aberrations	0.8867893218994141
+471	tid2013/images/i04.bmp	tid2013/images/i04_23_2.bmp	Chromatic aberrations	0.7404526472091675
+472	tid2013/images/i04.bmp	tid2013/images/i04_23_3.bmp	Chromatic aberrations	0.5214713215827942
+473	tid2013/images/i04.bmp	tid2013/images/i04_23_4.bmp	Chromatic aberrations	0.3885327875614166
+474	tid2013/images/i04.bmp	tid2013/images/i04_23_5.bmp	Chromatic aberrations	0.17696399986743927
+475	tid2013/images/i04.bmp	tid2013/images/i04_24_1.bmp	Sparse sampling and reconstruction	0.760943591594696
+476	tid2013/images/i04.bmp	tid2013/images/i04_24_2.bmp	Sparse sampling and reconstruction	0.5048114657402039
+477	tid2013/images/i04.bmp	tid2013/images/i04_24_3.bmp	Sparse sampling and reconstruction	0.3360576331615448
+478	tid2013/images/i04.bmp	tid2013/images/i04_24_4.bmp	Sparse sampling and reconstruction	0.2384353131055832
+479	tid2013/images/i04.bmp	tid2013/images/i04_24_5.bmp	Sparse sampling and reconstruction	0.04919053241610527
+2400	tid2013/images/i21.bmp	tid2013/images/i21_01_1.bmp	Additive Gaussian noise	0.7557814121246338
+2401	tid2013/images/i21.bmp	tid2013/images/i21_01_2.bmp	Additive Gaussian noise	0.6924038529396057
+2402	tid2013/images/i21.bmp	tid2013/images/i21_01_3.bmp	Additive Gaussian noise	0.6090115904808044
+2403	tid2013/images/i21.bmp	tid2013/images/i21_01_4.bmp	Additive Gaussian noise	0.5256208181381226
+2404	tid2013/images/i21.bmp	tid2013/images/i21_01_5.bmp	Additive Gaussian noise	0.4655781090259552
+2405	tid2013/images/i21.bmp	tid2013/images/i21_02_1.bmp	Additive Gaussian noise in color	0.7985088229179382
+2406	tid2013/images/i21.bmp	tid2013/images/i21_02_2.bmp	Additive Gaussian noise in color	0.7591162919998169
+2407	tid2013/images/i21.bmp	tid2013/images/i21_02_3.bmp	Additive Gaussian noise in color	0.7457740902900696
+2408	tid2013/images/i21.bmp	tid2013/images/i21_02_4.bmp	Additive Gaussian noise in color	0.6557106971740723
+2409	tid2013/images/i21.bmp	tid2013/images/i21_02_5.bmp	Additive Gaussian noise in color	0.5604780316352844
+2410	tid2013/images/i21.bmp	tid2013/images/i21_03_1.bmp	Spatially correlated noise	0.5956694483757019
+2411	tid2013/images/i21.bmp	tid2013/images/i21_03_2.bmp	Spatially correlated noise	0.5284680128097534
+2412	tid2013/images/i21.bmp	tid2013/images/i21_03_3.bmp	Spatially correlated noise	0.4194355607032776
+2413	tid2013/images/i21.bmp	tid2013/images/i21_03_4.bmp	Spatially correlated noise	0.40553683042526245
+2414	tid2013/images/i21.bmp	tid2013/images/i21_03_5.bmp	Spatially correlated noise	0.3321519196033478
+2415	tid2013/images/i21.bmp	tid2013/images/i21_04_1.bmp	Masked noise	0.8158227205276489
+2416	tid2013/images/i21.bmp	tid2013/images/i21_04_2.bmp	Masked noise	0.8291663527488708
+2417	tid2013/images/i21.bmp	tid2013/images/i21_04_3.bmp	Masked noise	0.7488650679588318
+2418	tid2013/images/i21.bmp	tid2013/images/i21_04_4.bmp	Masked noise	0.7302072644233704
+2419	tid2013/images/i21.bmp	tid2013/images/i21_04_5.bmp	Masked noise	0.6321948170661926
+2420	tid2013/images/i21.bmp	tid2013/images/i21_05_1.bmp	High frequency noise	0.7824658155441284
+2421	tid2013/images/i21.bmp	tid2013/images/i21_05_2.bmp	High frequency noise	0.8124879002571106
+2422	tid2013/images/i21.bmp	tid2013/images/i21_05_3.bmp	High frequency noise	0.6990749835968018
+2423	tid2013/images/i21.bmp	tid2013/images/i21_05_4.bmp	High frequency noise	0.528717577457428
+2424	tid2013/images/i21.bmp	tid2013/images/i21_05_5.bmp	High frequency noise	0.39552947878837585
+2425	tid2013/images/i21.bmp	tid2013/images/i21_06_1.bmp	Impulse noise	0.6719014644622803
+2426	tid2013/images/i21.bmp	tid2013/images/i21_06_2.bmp	Impulse noise	0.5936039686203003
+2427	tid2013/images/i21.bmp	tid2013/images/i21_06_3.bmp	Impulse noise	0.5424613952636719
+2428	tid2013/images/i21.bmp	tid2013/images/i21_06_4.bmp	Impulse noise	0.46724623441696167
+2429	tid2013/images/i21.bmp	tid2013/images/i21_06_5.bmp	Impulse noise	0.4023597836494446
+2430	tid2013/images/i21.bmp	tid2013/images/i21_07_1.bmp	Quantization noise	0.6858949065208435
+2431	tid2013/images/i21.bmp	tid2013/images/i21_07_2.bmp	Quantization noise	0.6035080552101135
+2432	tid2013/images/i21.bmp	tid2013/images/i21_07_3.bmp	Quantization noise	0.5628690719604492
+2433	tid2013/images/i21.bmp	tid2013/images/i21_07_4.bmp	Quantization noise	0.4809068739414215
+2434	tid2013/images/i21.bmp	tid2013/images/i21_07_5.bmp	Quantization noise	0.4194355607032776
+2435	tid2013/images/i21.bmp	tid2013/images/i21_08_1.bmp	Gaussian blur	0.7541133165359497
+2436	tid2013/images/i21.bmp	tid2013/images/i21_08_2.bmp	Gaussian blur	0.6619055867195129
+2437	tid2013/images/i21.bmp	tid2013/images/i21_08_3.bmp	Gaussian blur	0.5556414723396301
+2438	tid2013/images/i21.bmp	tid2013/images/i21_08_4.bmp	Gaussian blur	0.428886353969574
+2439	tid2013/images/i21.bmp	tid2013/images/i21_08_5.bmp	Gaussian blur	0.27544549107551575
+2440	tid2013/images/i21.bmp	tid2013/images/i21_09_1.bmp	Image denoising	0.8365875482559204
+2441	tid2013/images/i21.bmp	tid2013/images/i21_09_2.bmp	Image denoising	0.8531513214111328
+2442	tid2013/images/i21.bmp	tid2013/images/i21_09_3.bmp	Image denoising	0.72679203748703
+2443	tid2013/images/i21.bmp	tid2013/images/i21_09_4.bmp	Image denoising	0.5056061148643494
+2444	tid2013/images/i21.bmp	tid2013/images/i21_09_5.bmp	Image denoising	0.26543810963630676
+2445	tid2013/images/i21.bmp	tid2013/images/i21_10_1.bmp	JPEG compression	0.8702256083488464
+2446	tid2013/images/i21.bmp	tid2013/images/i21_10_2.bmp	JPEG compression	0.8087543249130249
+2447	tid2013/images/i21.bmp	tid2013/images/i21_10_3.bmp	JPEG compression	0.7024098038673401
+2448	tid2013/images/i21.bmp	tid2013/images/i21_10_4.bmp	JPEG compression	0.43309471011161804
+2449	tid2013/images/i21.bmp	tid2013/images/i21_10_5.bmp	JPEG compression	0.241600900888443
+2450	tid2013/images/i21.bmp	tid2013/images/i21_11_1.bmp	JPEG2000 compression	0.8433218002319336
+2451	tid2013/images/i21.bmp	tid2013/images/i21_11_2.bmp	JPEG2000 compression	0.7391029596328735
+2452	tid2013/images/i21.bmp	tid2013/images/i21_11_3.bmp	JPEG2000 compression	0.638001024723053
+2453	tid2013/images/i21.bmp	tid2013/images/i21_11_4.bmp	JPEG2000 compression	0.39552947878837585
+2454	tid2013/images/i21.bmp	tid2013/images/i21_11_5.bmp	JPEG2000 compression	0.11533347517251968
+2455	tid2013/images/i21.bmp	tid2013/images/i21_12_1.bmp	JPEG transmission errors	0.7958093881607056
+2456	tid2013/images/i21.bmp	tid2013/images/i21_12_2.bmp	JPEG transmission errors	0.6490395665168762
+2457	tid2013/images/i21.bmp	tid2013/images/i21_12_3.bmp	JPEG transmission errors	0.8258300423622131
+2458	tid2013/images/i21.bmp	tid2013/images/i21_12_4.bmp	JPEG transmission errors	0.7711890339851379
+2459	tid2013/images/i21.bmp	tid2013/images/i21_12_5.bmp	JPEG transmission errors	0.255511075258255
+2460	tid2013/images/i21.bmp	tid2013/images/i21_13_1.bmp	JPEG2000 transmission errors	0.603849470615387
+2461	tid2013/images/i21.bmp	tid2013/images/i21_13_2.bmp	JPEG2000 transmission errors	0.4945674538612366
+2462	tid2013/images/i21.bmp	tid2013/images/i21_13_3.bmp	JPEG2000 transmission errors	0.42001789808273315
+2463	tid2013/images/i21.bmp	tid2013/images/i21_13_4.bmp	JPEG2000 transmission errors	0.3021312952041626
+2464	tid2013/images/i21.bmp	tid2013/images/i21_13_5.bmp	JPEG2000 transmission errors	0.3321519196033478
+2465	tid2013/images/i21.bmp	tid2013/images/i21_14_1.bmp	Non eccentricity pattern noise	0.8124879002571106
+2466	tid2013/images/i21.bmp	tid2013/images/i21_14_2.bmp	Non eccentricity pattern noise	0.8503184914588928
+2467	tid2013/images/i21.bmp	tid2013/images/i21_14_3.bmp	Non eccentricity pattern noise	0.8189997673034668
+2468	tid2013/images/i21.bmp	tid2013/images/i21_14_4.bmp	Non eccentricity pattern noise	0.586773693561554
+2469	tid2013/images/i21.bmp	tid2013/images/i21_14_5.bmp	Non eccentricity pattern noise	0.4889276623725891
+2470	tid2013/images/i21.bmp	tid2013/images/i21_15_1.bmp	Local block-wise distortions of different intensity	0.37453943490982056
+2471	tid2013/images/i21.bmp	tid2013/images/i21_15_2.bmp	Local block-wise distortions of different intensity	0.4340112507343292
+2472	tid2013/images/i21.bmp	tid2013/images/i21_15_3.bmp	Local block-wise distortions of different intensity	0.47749170660972595
+2473	tid2013/images/i21.bmp	tid2013/images/i21_15_4.bmp	Local block-wise distortions of different intensity	0.5048114657402039
+2474	tid2013/images/i21.bmp	tid2013/images/i21_15_5.bmp	Local block-wise distortions of different intensity	0.49798259139060974
+2475	tid2013/images/i21.bmp	tid2013/images/i21_16_1.bmp	Mean shift (intensity shift)	0.8433218002319336
+2476	tid2013/images/i21.bmp	tid2013/images/i21_16_2.bmp	Mean shift (intensity shift)	0.8158227205276489
+2477	tid2013/images/i21.bmp	tid2013/images/i21_16_3.bmp	Mean shift (intensity shift)	0.7848497033119202
+2478	tid2013/images/i21.bmp	tid2013/images/i21_16_4.bmp	Mean shift (intensity shift)	0.7063025832176208
+2479	tid2013/images/i21.bmp	tid2013/images/i21_16_5.bmp	Mean shift (intensity shift)	0.6356974244117737
+2480	tid2013/images/i21.bmp	tid2013/images/i21_17_1.bmp	Contrast change	0.7313733696937561
+2481	tid2013/images/i21.bmp	tid2013/images/i21_17_2.bmp	Contrast change	0.8633952736854553
+2482	tid2013/images/i21.bmp	tid2013/images/i21_17_3.bmp	Contrast change	0.5901888608932495
+2483	tid2013/images/i21.bmp	tid2013/images/i21_17_4.bmp	Contrast change	0.8691943287849426
+2484	tid2013/images/i21.bmp	tid2013/images/i21_17_5.bmp	Contrast change	0.47441792488098145
+2485	tid2013/images/i21.bmp	tid2013/images/i21_18_1.bmp	Change of color saturation	0.6619055867195129
+2486	tid2013/images/i21.bmp	tid2013/images/i21_18_2.bmp	Change of color saturation	0.5844414830207825
+2487	tid2013/images/i21.bmp	tid2013/images/i21_18_3.bmp	Change of color saturation	0.5560387969017029
+2488	tid2013/images/i21.bmp	tid2013/images/i21_18_4.bmp	Change of color saturation	0.48298951983451843
+2489	tid2013/images/i21.bmp	tid2013/images/i21_18_5.bmp	Change of color saturation	0.5082266330718994
+2490	tid2013/images/i21.bmp	tid2013/images/i21_19_1.bmp	Multiplicative Gaussian noise	0.7370375394821167
+2491	tid2013/images/i21.bmp	tid2013/images/i21_19_2.bmp	Multiplicative Gaussian noise	0.6523758769035339
+2492	tid2013/images/i21.bmp	tid2013/images/i21_19_3.bmp	Multiplicative Gaussian noise	0.5492085218429565
+2493	tid2013/images/i21.bmp	tid2013/images/i21_19_4.bmp	Multiplicative Gaussian noise	0.48773714900016785
+2494	tid2013/images/i21.bmp	tid2013/images/i21_19_5.bmp	Multiplicative Gaussian noise	0.4555707573890686
+2495	tid2013/images/i21.bmp	tid2013/images/i21_20_1.bmp	Comfort noise	0.8222442269325256
+2496	tid2013/images/i21.bmp	tid2013/images/i21_20_2.bmp	Comfort noise	0.7791309356689453
+2497	tid2013/images/i21.bmp	tid2013/images/i21_20_3.bmp	Comfort noise	0.7814345359802246
+2498	tid2013/images/i21.bmp	tid2013/images/i21_20_4.bmp	Comfort noise	0.6657180786132812
+2499	tid2013/images/i21.bmp	tid2013/images/i21_20_5.bmp	Comfort noise	0.5156134366989136
+2500	tid2013/images/i21.bmp	tid2013/images/i21_21_1.bmp	Lossy compression of noisy images	0.7591162919998169
+2501	tid2013/images/i21.bmp	tid2013/images/i21_21_2.bmp	Lossy compression of noisy images	0.7028874158859253
+2502	tid2013/images/i21.bmp	tid2013/images/i21_21_3.bmp	Lossy compression of noisy images	0.5833585262298584
+2503	tid2013/images/i21.bmp	tid2013/images/i21_21_4.bmp	Lossy compression of noisy images	0.4843220114707947
+2504	tid2013/images/i21.bmp	tid2013/images/i21_21_5.bmp	Lossy compression of noisy images	0.3570476770401001
+2505	tid2013/images/i21.bmp	tid2013/images/i21_22_1.bmp	Image color quantization with dither	0.7336223721504211
+2506	tid2013/images/i21.bmp	tid2013/images/i21_22_2.bmp	Image color quantization with dither	0.7506981492042542
+2507	tid2013/images/i21.bmp	tid2013/images/i21_22_3.bmp	Image color quantization with dither	0.602340579032898
+2508	tid2013/images/i21.bmp	tid2013/images/i21_22_4.bmp	Image color quantization with dither	0.44889968633651733
+2509	tid2013/images/i21.bmp	tid2013/images/i21_22_5.bmp	Image color quantization with dither	0.39552947878837585
+2510	tid2013/images/i21.bmp	tid2013/images/i21_23_1.bmp	Chromatic aberrations	0.8425085544586182
+2511	tid2013/images/i21.bmp	tid2013/images/i21_23_2.bmp	Chromatic aberrations	0.8121694326400757
+2512	tid2013/images/i21.bmp	tid2013/images/i21_23_3.bmp	Chromatic aberrations	0.7791309356689453
+2513	tid2013/images/i21.bmp	tid2013/images/i21_23_4.bmp	Chromatic aberrations	0.7165480852127075
+2514	tid2013/images/i21.bmp	tid2013/images/i21_23_5.bmp	Chromatic aberrations	0.3750385642051697
+2515	tid2013/images/i21.bmp	tid2013/images/i21_24_1.bmp	Sparse sampling and reconstruction	0.8091515898704529
+2516	tid2013/images/i21.bmp	tid2013/images/i21_24_2.bmp	Sparse sampling and reconstruction	0.7858020663261414
+2517	tid2013/images/i21.bmp	tid2013/images/i21_24_3.bmp	Sparse sampling and reconstruction	0.6823965311050415
+2518	tid2013/images/i21.bmp	tid2013/images/i21_24_4.bmp	Sparse sampling and reconstruction	0.4060244858264923
+2519	tid2013/images/i21.bmp	tid2013/images/i21_24_5.bmp	Sparse sampling and reconstruction	0.040360767394304276

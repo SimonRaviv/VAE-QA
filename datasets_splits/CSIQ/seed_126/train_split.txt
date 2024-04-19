@@ -1,0 +1,692 @@
+260	csiq/src_imgs/family.png	csiq/dst_imgs/awgn/family.awgn.1.png	Additive white Gaussian noise	0.912208080291748
+261	csiq/src_imgs/family.png	csiq/dst_imgs/awgn/family.awgn.2.png	Additive white Gaussian noise	0.8503212928771973
+262	csiq/src_imgs/family.png	csiq/dst_imgs/awgn/family.awgn.3.png	Additive white Gaussian noise	0.7252577543258667
+263	csiq/src_imgs/family.png	csiq/dst_imgs/awgn/family.awgn.4.png	Additive white Gaussian noise	0.6246544122695923
+264	csiq/src_imgs/family.png	csiq/dst_imgs/awgn/family.awgn.5.png	Additive white Gaussian noise	0.5204106569290161
+265	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg/family.jpeg.1.png	JPEG compression	0.9779952168464661
+266	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg/family.jpeg.2.png	JPEG compression	0.8657976984977722
+267	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg/family.jpeg.3.png	JPEG compression	0.3532743453979492
+268	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg/family.jpeg.4.png	JPEG compression	0.23822921514511108
+269	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg/family.jpeg.5.png	JPEG compression	0.15373611450195312
+270	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg2000/family.jpeg2000.1.png	JPEG2000 compression	0.9556628465652466
+271	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg2000/family.jpeg2000.2.png	JPEG2000 compression	0.7624623775482178
+272	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg2000/family.jpeg2000.3.png	JPEG2000 compression	0.44128698110580444
+273	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg2000/family.jpeg2000.4.png	JPEG2000 compression	0.23804545402526855
+274	csiq/src_imgs/family.png	csiq/dst_imgs/jpeg2000/family.jpeg2000.5.png	JPEG2000 compression	0.022877514362335205
+275	csiq/src_imgs/family.png	csiq/dst_imgs/fnoise/family.fnoise.1.png	Additive pink Gaussian noise	0.8301671147346497
+276	csiq/src_imgs/family.png	csiq/dst_imgs/fnoise/family.fnoise.2.png	Additive pink Gaussian noise	0.7281081676483154
+277	csiq/src_imgs/family.png	csiq/dst_imgs/fnoise/family.fnoise.3.png	Additive pink Gaussian noise	0.5520132780075073
+278	csiq/src_imgs/family.png	csiq/dst_imgs/fnoise/family.fnoise.4.png	Additive pink Gaussian noise	0.43135684728622437
+279	csiq/src_imgs/family.png	csiq/dst_imgs/fnoise/family.fnoise.5.png	Additive pink Gaussian noise	0.31936436891555786
+280	csiq/src_imgs/family.png	csiq/dst_imgs/blur/family.blur.1.png	Gaussian blur	0.963033139705658
+281	csiq/src_imgs/family.png	csiq/dst_imgs/blur/family.blur.2.png	Gaussian blur	0.8506566286087036
+282	csiq/src_imgs/family.png	csiq/dst_imgs/blur/family.blur.3.png	Gaussian blur	0.7377597093582153
+283	csiq/src_imgs/family.png	csiq/dst_imgs/blur/family.blur.4.png	Gaussian blur	0.4616345167160034
+284	csiq/src_imgs/family.png	csiq/dst_imgs/blur/family.blur.5.png	Gaussian blur	0.14374375343322754
+285	csiq/src_imgs/family.png	csiq/dst_imgs/contrast/family.contrast.1.png	Global contrast decrements	0.9731422662734985
+286	csiq/src_imgs/family.png	csiq/dst_imgs/contrast/family.contrast.2.png	Global contrast decrements	0.8552242517471313
+287	csiq/src_imgs/family.png	csiq/dst_imgs/contrast/family.contrast.3.png	Global contrast decrements	0.7204773426055908
+288	csiq/src_imgs/family.png	csiq/dst_imgs/contrast/family.contrast.4.png	Global contrast decrements	0.6214926242828369
+375	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/awgn/lady_liberty.awgn.1.png	Additive white Gaussian noise	0.9675238132476807
+376	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/awgn/lady_liberty.awgn.2.png	Additive white Gaussian noise	0.8489447832107544
+377	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/awgn/lady_liberty.awgn.3.png	Additive white Gaussian noise	0.7453875541687012
+378	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/awgn/lady_liberty.awgn.4.png	Additive white Gaussian noise	0.615830659866333
+379	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/awgn/lady_liberty.awgn.5.png	Additive white Gaussian noise	0.5125170946121216
+380	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg/lady_liberty.jpeg.1.png	JPEG compression	0.9830276370048523
+381	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg/lady_liberty.jpeg.2.png	JPEG compression	0.7264862656593323
+382	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg/lady_liberty.jpeg.3.png	JPEG compression	0.46834027767181396
+383	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg/lady_liberty.jpeg.4.png	JPEG compression	0.3454974889755249
+384	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg/lady_liberty.jpeg.5.png	JPEG compression	0.22968214750289917
+385	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg2000/lady_liberty.jpeg2000.1.png	JPEG2000 compression	0.968753457069397
+386	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg2000/lady_liberty.jpeg2000.2.png	JPEG2000 compression	0.7329960465431213
+387	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg2000/lady_liberty.jpeg2000.3.png	JPEG2000 compression	0.4913700222969055
+388	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg2000/lady_liberty.jpeg2000.4.png	JPEG2000 compression	0.23657578229904175
+389	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/jpeg2000/lady_liberty.jpeg2000.5.png	JPEG2000 compression	0.09270799160003662
+390	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/fnoise/lady_liberty.fnoise.1.png	Additive pink Gaussian noise	0.9680464267730713
+391	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/fnoise/lady_liberty.fnoise.2.png	Additive pink Gaussian noise	0.8065387606620789
+392	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/fnoise/lady_liberty.fnoise.3.png	Additive pink Gaussian noise	0.6475677490234375
+393	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/fnoise/lady_liberty.fnoise.4.png	Additive pink Gaussian noise	0.4946303963661194
+394	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/fnoise/lady_liberty.fnoise.5.png	Additive pink Gaussian noise	0.35800838470458984
+395	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/blur/lady_liberty.blur.1.png	Gaussian blur	0.9410625100135803
+396	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/blur/lady_liberty.blur.2.png	Gaussian blur	0.7734675407409668
+397	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/blur/lady_liberty.blur.3.png	Gaussian blur	0.5384968519210815
+398	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/blur/lady_liberty.blur.4.png	Gaussian blur	0.32669609785079956
+399	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/blur/lady_liberty.blur.5.png	Gaussian blur	0.03419524431228638
+400	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/contrast/lady_liberty.contrast.1.png	Global contrast decrements	0.9083291292190552
+401	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/contrast/lady_liberty.contrast.2.png	Global contrast decrements	0.6947973370552063
+402	csiq/src_imgs/lady_liberty.png	csiq/dst_imgs/contrast/lady_liberty.contrast.3.png	Global contrast decrements	0.3594103455543518
+808	csiq/src_imgs/veggies.png	csiq/dst_imgs/awgn/veggies.awgn.1.png	Additive white Gaussian noise	0.9824081063270569
+809	csiq/src_imgs/veggies.png	csiq/dst_imgs/awgn/veggies.awgn.2.png	Additive white Gaussian noise	0.9015492796897888
+810	csiq/src_imgs/veggies.png	csiq/dst_imgs/awgn/veggies.awgn.3.png	Additive white Gaussian noise	0.786404013633728
+811	csiq/src_imgs/veggies.png	csiq/dst_imgs/awgn/veggies.awgn.4.png	Additive white Gaussian noise	0.6532442569732666
+812	csiq/src_imgs/veggies.png	csiq/dst_imgs/awgn/veggies.awgn.5.png	Additive white Gaussian noise	0.5275415182113647
+813	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg/veggies.jpeg.1.png	JPEG compression	0.9624477028846741
+814	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg/veggies.jpeg.2.png	JPEG compression	0.8923393487930298
+815	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg/veggies.jpeg.3.png	JPEG compression	0.7705903649330139
+816	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg/veggies.jpeg.4.png	JPEG compression	0.4101791977882385
+817	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg/veggies.jpeg.5.png	JPEG compression	0.26960569620132446
+818	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg2000/veggies.jpeg2000.1.png	JPEG2000 compression	0.9548971056938171
+819	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg2000/veggies.jpeg2000.2.png	JPEG2000 compression	0.8856924176216125
+820	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg2000/veggies.jpeg2000.3.png	JPEG2000 compression	0.6827019453048706
+821	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg2000/veggies.jpeg2000.4.png	JPEG2000 compression	0.452286958694458
+822	csiq/src_imgs/veggies.png	csiq/dst_imgs/jpeg2000/veggies.jpeg2000.5.png	JPEG2000 compression	0.22805410623550415
+823	csiq/src_imgs/veggies.png	csiq/dst_imgs/fnoise/veggies.fnoise.1.png	Additive pink Gaussian noise	0.9354518055915833
+824	csiq/src_imgs/veggies.png	csiq/dst_imgs/fnoise/veggies.fnoise.2.png	Additive pink Gaussian noise	0.7970898151397705
+825	csiq/src_imgs/veggies.png	csiq/dst_imgs/fnoise/veggies.fnoise.3.png	Additive pink Gaussian noise	0.6289173364639282
+826	csiq/src_imgs/veggies.png	csiq/dst_imgs/fnoise/veggies.fnoise.4.png	Additive pink Gaussian noise	0.39980602264404297
+827	csiq/src_imgs/veggies.png	csiq/dst_imgs/fnoise/veggies.fnoise.5.png	Additive pink Gaussian noise	0.31697940826416016
+828	csiq/src_imgs/veggies.png	csiq/dst_imgs/blur/veggies.blur.1.png	Gaussian blur	0.9435557723045349
+829	csiq/src_imgs/veggies.png	csiq/dst_imgs/blur/veggies.blur.2.png	Gaussian blur	0.7937148809432983
+830	csiq/src_imgs/veggies.png	csiq/dst_imgs/blur/veggies.blur.3.png	Gaussian blur	0.6511011123657227
+831	csiq/src_imgs/veggies.png	csiq/dst_imgs/blur/veggies.blur.4.png	Gaussian blur	0.47860187292099
+832	csiq/src_imgs/veggies.png	csiq/dst_imgs/blur/veggies.blur.5.png	Gaussian blur	0.28116369247436523
+833	csiq/src_imgs/veggies.png	csiq/dst_imgs/contrast/veggies.contrast.1.png	Global contrast decrements	0.9444518089294434
+834	csiq/src_imgs/veggies.png	csiq/dst_imgs/contrast/veggies.contrast.2.png	Global contrast decrements	0.7971774339675903
+835	csiq/src_imgs/veggies.png	csiq/dst_imgs/contrast/veggies.contrast.3.png	Global contrast decrements	0.6682838201522827
+836	csiq/src_imgs/veggies.png	csiq/dst_imgs/contrast/veggies.contrast.4.png	Global contrast decrements	0.6146667003631592
+347	csiq/src_imgs/geckos.png	csiq/dst_imgs/awgn/geckos.awgn.1.png	Additive white Gaussian noise	0.9714935421943665
+348	csiq/src_imgs/geckos.png	csiq/dst_imgs/awgn/geckos.awgn.2.png	Additive white Gaussian noise	0.9397277235984802
+349	csiq/src_imgs/geckos.png	csiq/dst_imgs/awgn/geckos.awgn.3.png	Additive white Gaussian noise	0.8833053708076477
+350	csiq/src_imgs/geckos.png	csiq/dst_imgs/awgn/geckos.awgn.4.png	Additive white Gaussian noise	0.7981407642364502
+351	csiq/src_imgs/geckos.png	csiq/dst_imgs/awgn/geckos.awgn.5.png	Additive white Gaussian noise	0.6638140678405762
+352	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg/geckos.jpeg.1.png	JPEG compression	0.9780047535896301
+353	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg/geckos.jpeg.2.png	JPEG compression	0.9532589316368103
+354	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg/geckos.jpeg.3.png	JPEG compression	0.8652253746986389
+355	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg/geckos.jpeg.4.png	JPEG compression	0.5374540090560913
+356	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg/geckos.jpeg.5.png	JPEG compression	0.2656337022781372
+357	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg2000/geckos.jpeg2000.1.png	JPEG2000 compression	0.9776497483253479
+358	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg2000/geckos.jpeg2000.2.png	JPEG2000 compression	0.9558107852935791
+359	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg2000/geckos.jpeg2000.3.png	JPEG2000 compression	0.8295205235481262
+360	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg2000/geckos.jpeg2000.4.png	JPEG2000 compression	0.6226091980934143
+361	csiq/src_imgs/geckos.png	csiq/dst_imgs/jpeg2000/geckos.jpeg2000.5.png	JPEG2000 compression	0.3828973174095154
+362	csiq/src_imgs/geckos.png	csiq/dst_imgs/fnoise/geckos.fnoise.1.png	Additive pink Gaussian noise	0.995959460735321
+363	csiq/src_imgs/geckos.png	csiq/dst_imgs/fnoise/geckos.fnoise.2.png	Additive pink Gaussian noise	0.8098512887954712
+364	csiq/src_imgs/geckos.png	csiq/dst_imgs/fnoise/geckos.fnoise.3.png	Additive pink Gaussian noise	0.6624870300292969
+365	csiq/src_imgs/geckos.png	csiq/dst_imgs/fnoise/geckos.fnoise.4.png	Additive pink Gaussian noise	0.5485856533050537
+366	csiq/src_imgs/geckos.png	csiq/dst_imgs/fnoise/geckos.fnoise.5.png	Additive pink Gaussian noise	0.3901824951171875
+367	csiq/src_imgs/geckos.png	csiq/dst_imgs/blur/geckos.blur.1.png	Gaussian blur	0.98747718334198
+368	csiq/src_imgs/geckos.png	csiq/dst_imgs/blur/geckos.blur.2.png	Gaussian blur	0.9323720932006836
+369	csiq/src_imgs/geckos.png	csiq/dst_imgs/blur/geckos.blur.3.png	Gaussian blur	0.7690380811691284
+370	csiq/src_imgs/geckos.png	csiq/dst_imgs/blur/geckos.blur.4.png	Gaussian blur	0.6591418385505676
+371	csiq/src_imgs/geckos.png	csiq/dst_imgs/blur/geckos.blur.5.png	Gaussian blur	0.4302622079849243
+372	csiq/src_imgs/geckos.png	csiq/dst_imgs/contrast/geckos.contrast.1.png	Global contrast decrements	0.8946022987365723
+373	csiq/src_imgs/geckos.png	csiq/dst_imgs/contrast/geckos.contrast.2.png	Global contrast decrements	0.7611599564552307
+374	csiq/src_imgs/geckos.png	csiq/dst_imgs/contrast/geckos.contrast.3.png	Global contrast decrements	0.5476173162460327
+174	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/awgn/child_swimming.awgn.1.png	Additive white Gaussian noise	0.9715433120727539
+175	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/awgn/child_swimming.awgn.2.png	Additive white Gaussian noise	0.8797930479049683
+176	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/awgn/child_swimming.awgn.3.png	Additive white Gaussian noise	0.7283998131752014
+177	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/awgn/child_swimming.awgn.4.png	Additive white Gaussian noise	0.587312638759613
+178	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/awgn/child_swimming.awgn.5.png	Additive white Gaussian noise	0.5114393830299377
+179	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg/child_swimming.jpeg.1.png	JPEG compression	0.9711403250694275
+180	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg/child_swimming.jpeg.2.png	JPEG compression	0.9701315760612488
+181	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg/child_swimming.jpeg.3.png	JPEG compression	0.7644695043563843
+182	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg/child_swimming.jpeg.4.png	JPEG compression	0.4855462312698364
+183	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg/child_swimming.jpeg.5.png	JPEG compression	0.3042702078819275
+184	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg2000/child_swimming.jpeg2000.1.png	JPEG2000 compression	0.971340537071228
+185	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg2000/child_swimming.jpeg2000.2.png	JPEG2000 compression	0.9570598006248474
+186	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg2000/child_swimming.jpeg2000.3.png	JPEG2000 compression	0.6773996353149414
+187	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg2000/child_swimming.jpeg2000.4.png	JPEG2000 compression	0.4533780813217163
+188	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/jpeg2000/child_swimming.jpeg2000.5.png	JPEG2000 compression	0.23412466049194336
+189	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/fnoise/child_swimming.fnoise.1.png	Additive pink Gaussian noise	0.968274712562561
+190	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/fnoise/child_swimming.fnoise.2.png	Additive pink Gaussian noise	0.7738838791847229
+191	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/fnoise/child_swimming.fnoise.3.png	Additive pink Gaussian noise	0.6244735717773438
+192	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/fnoise/child_swimming.fnoise.4.png	Additive pink Gaussian noise	0.4295507073402405
+193	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/fnoise/child_swimming.fnoise.5.png	Additive pink Gaussian noise	0.3008851408958435
+194	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/blur/child_swimming.blur.1.png	Gaussian blur	0.968274712562561
+195	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/blur/child_swimming.blur.2.png	Gaussian blur	0.8128443360328674
+196	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/blur/child_swimming.blur.3.png	Gaussian blur	0.7099840044975281
+197	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/blur/child_swimming.blur.4.png	Gaussian blur	0.5150187611579895
+198	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/blur/child_swimming.blur.5.png	Gaussian blur	0.24172472953796387
+199	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/contrast/child_swimming.contrast.1.png	Global contrast decrements	0.856691837310791
+200	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/contrast/child_swimming.contrast.2.png	Global contrast decrements	0.7109769582748413
+201	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/contrast/child_swimming.contrast.3.png	Global contrast decrements	0.4464173913002014
+202	csiq/src_imgs/child_swimming.png	csiq/dst_imgs/contrast/child_swimming.contrast.4.png	Global contrast decrements	0.43488210439682007
+0	csiq/src_imgs/1600.png	csiq/dst_imgs/awgn/1600.awgn.1.png	Additive white Gaussian noise	0.938010573387146
+1	csiq/src_imgs/1600.png	csiq/dst_imgs/awgn/1600.awgn.2.png	Additive white Gaussian noise	0.7937554717063904
+2	csiq/src_imgs/1600.png	csiq/dst_imgs/awgn/1600.awgn.3.png	Additive white Gaussian noise	0.7378777861595154
+3	csiq/src_imgs/1600.png	csiq/dst_imgs/awgn/1600.awgn.4.png	Additive white Gaussian noise	0.6253677010536194
+4	csiq/src_imgs/1600.png	csiq/dst_imgs/awgn/1600.awgn.5.png	Additive white Gaussian noise	0.5325196981430054
+5	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg/1600.jpeg.1.png	JPEG compression	0.9871269464492798
+6	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg/1600.jpeg.2.png	JPEG compression	0.9308522939682007
+7	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg/1600.jpeg.3.png	JPEG compression	0.803172767162323
+8	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg/1600.jpeg.4.png	JPEG compression	0.4989365339279175
+9	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg/1600.jpeg.5.png	JPEG compression	0.3128731846809387
+10	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg2000/1600.jpeg2000.1.png	JPEG2000 compression	0.9880325198173523
+11	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg2000/1600.jpeg2000.2.png	JPEG2000 compression	0.8646886944770813
+12	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg2000/1600.jpeg2000.3.png	JPEG2000 compression	0.6356390118598938
+13	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg2000/1600.jpeg2000.4.png	JPEG2000 compression	0.4241565465927124
+14	csiq/src_imgs/1600.png	csiq/dst_imgs/jpeg2000/1600.jpeg2000.5.png	JPEG2000 compression	0.1730840802192688
+15	csiq/src_imgs/1600.png	csiq/dst_imgs/fnoise/1600.fnoise.1.png	Additive pink Gaussian noise	0.9476238489151001
+16	csiq/src_imgs/1600.png	csiq/dst_imgs/fnoise/1600.fnoise.2.png	Additive pink Gaussian noise	0.7469421625137329
+17	csiq/src_imgs/1600.png	csiq/dst_imgs/fnoise/1600.fnoise.3.png	Additive pink Gaussian noise	0.6242591142654419
+18	csiq/src_imgs/1600.png	csiq/dst_imgs/fnoise/1600.fnoise.4.png	Additive pink Gaussian noise	0.5101198554039001
+19	csiq/src_imgs/1600.png	csiq/dst_imgs/fnoise/1600.fnoise.5.png	Additive pink Gaussian noise	0.4347805976867676
+20	csiq/src_imgs/1600.png	csiq/dst_imgs/blur/1600.blur.1.png	Gaussian blur	0.9573323130607605
+21	csiq/src_imgs/1600.png	csiq/dst_imgs/blur/1600.blur.2.png	Gaussian blur	0.8575652837753296
+22	csiq/src_imgs/1600.png	csiq/dst_imgs/blur/1600.blur.3.png	Gaussian blur	0.6588857173919678
+23	csiq/src_imgs/1600.png	csiq/dst_imgs/blur/1600.blur.4.png	Gaussian blur	0.5289623141288757
+24	csiq/src_imgs/1600.png	csiq/dst_imgs/blur/1600.blur.5.png	Gaussian blur	0.25020545721054077
+25	csiq/src_imgs/1600.png	csiq/dst_imgs/contrast/1600.contrast.1.png	Global contrast decrements	0.9438186883926392
+26	csiq/src_imgs/1600.png	csiq/dst_imgs/contrast/1600.contrast.2.png	Global contrast decrements	0.7990310192108154
+27	csiq/src_imgs/1600.png	csiq/dst_imgs/contrast/1600.contrast.3.png	Global contrast decrements	0.6896753311157227
+28	csiq/src_imgs/1600.png	csiq/dst_imgs/contrast/1600.contrast.4.png	Global contrast decrements	0.6294010877609253
+722	csiq/src_imgs/swarm.png	csiq/dst_imgs/awgn/swarm.awgn.1.png	Additive white Gaussian noise	0.9648041129112244
+723	csiq/src_imgs/swarm.png	csiq/dst_imgs/awgn/swarm.awgn.2.png	Additive white Gaussian noise	0.8342803716659546
+724	csiq/src_imgs/swarm.png	csiq/dst_imgs/awgn/swarm.awgn.3.png	Additive white Gaussian noise	0.6781275868415833
+725	csiq/src_imgs/swarm.png	csiq/dst_imgs/awgn/swarm.awgn.4.png	Additive white Gaussian noise	0.5807679295539856
+726	csiq/src_imgs/swarm.png	csiq/dst_imgs/awgn/swarm.awgn.5.png	Additive white Gaussian noise	0.4228246212005615
+727	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg/swarm.jpeg.1.png	JPEG compression	0.9533787965774536
+728	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg/swarm.jpeg.2.png	JPEG compression	0.630706787109375
+729	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg/swarm.jpeg.3.png	JPEG compression	0.28646814823150635
+730	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg/swarm.jpeg.4.png	JPEG compression	0.22403764724731445
+731	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg/swarm.jpeg.5.png	JPEG compression	0.10884672403335571
+732	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg2000/swarm.jpeg2000.1.png	JPEG2000 compression	0.9672039747238159
+733	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg2000/swarm.jpeg2000.2.png	JPEG2000 compression	0.6866723299026489
+734	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg2000/swarm.jpeg2000.3.png	JPEG2000 compression	0.4276998043060303
+735	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg2000/swarm.jpeg2000.4.png	JPEG2000 compression	0.16262567043304443
+736	csiq/src_imgs/swarm.png	csiq/dst_imgs/jpeg2000/swarm.jpeg2000.5.png	JPEG2000 compression	0.03284776210784912
+737	csiq/src_imgs/swarm.png	csiq/dst_imgs/fnoise/swarm.fnoise.1.png	Additive pink Gaussian noise	0.9276098012924194
+738	csiq/src_imgs/swarm.png	csiq/dst_imgs/fnoise/swarm.fnoise.2.png	Additive pink Gaussian noise	0.6342998743057251
+739	csiq/src_imgs/swarm.png	csiq/dst_imgs/fnoise/swarm.fnoise.3.png	Additive pink Gaussian noise	0.4136744737625122
+740	csiq/src_imgs/swarm.png	csiq/dst_imgs/fnoise/swarm.fnoise.4.png	Additive pink Gaussian noise	0.30326980352401733
+741	csiq/src_imgs/swarm.png	csiq/dst_imgs/fnoise/swarm.fnoise.5.png	Additive pink Gaussian noise	0.18359094858169556
+742	csiq/src_imgs/swarm.png	csiq/dst_imgs/blur/swarm.blur.1.png	Gaussian blur	0.9245941638946533
+743	csiq/src_imgs/swarm.png	csiq/dst_imgs/blur/swarm.blur.2.png	Gaussian blur	0.7074884176254272
+744	csiq/src_imgs/swarm.png	csiq/dst_imgs/blur/swarm.blur.3.png	Gaussian blur	0.44120705127716064
+745	csiq/src_imgs/swarm.png	csiq/dst_imgs/blur/swarm.blur.4.png	Gaussian blur	0.18202829360961914
+746	csiq/src_imgs/swarm.png	csiq/dst_imgs/blur/swarm.blur.5.png	Gaussian blur	0.037173449993133545
+747	csiq/src_imgs/swarm.png	csiq/dst_imgs/contrast/swarm.contrast.1.png	Global contrast decrements	0.9093868136405945
+748	csiq/src_imgs/swarm.png	csiq/dst_imgs/contrast/swarm.contrast.2.png	Global contrast decrements	0.6852476596832275
+749	csiq/src_imgs/swarm.png	csiq/dst_imgs/contrast/swarm.contrast.3.png	Global contrast decrements	0.3747301697731018
+750	csiq/src_imgs/trolley.png	csiq/dst_imgs/awgn/trolley.awgn.1.png	Additive white Gaussian noise	0.9713563323020935
+751	csiq/src_imgs/trolley.png	csiq/dst_imgs/awgn/trolley.awgn.2.png	Additive white Gaussian noise	0.909717321395874
+752	csiq/src_imgs/trolley.png	csiq/dst_imgs/awgn/trolley.awgn.3.png	Additive white Gaussian noise	0.78012615442276
+753	csiq/src_imgs/trolley.png	csiq/dst_imgs/awgn/trolley.awgn.4.png	Additive white Gaussian noise	0.6581279039382935
+754	csiq/src_imgs/trolley.png	csiq/dst_imgs/awgn/trolley.awgn.5.png	Additive white Gaussian noise	0.5497406721115112
+755	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg/trolley.jpeg.1.png	JPEG compression	0.9737337231636047
+756	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg/trolley.jpeg.2.png	JPEG compression	0.942712664604187
+757	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg/trolley.jpeg.3.png	JPEG compression	0.8315199017524719
+758	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg/trolley.jpeg.4.png	JPEG compression	0.4215460419654846
+759	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg/trolley.jpeg.5.png	JPEG compression	0.27346014976501465
+760	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg2000/trolley.jpeg2000.1.png	JPEG2000 compression	0.964038074016571
+761	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg2000/trolley.jpeg2000.2.png	JPEG2000 compression	0.8355748653411865
+762	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg2000/trolley.jpeg2000.3.png	JPEG2000 compression	0.6502846479415894
+763	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg2000/trolley.jpeg2000.4.png	JPEG2000 compression	0.4668174982070923
+764	csiq/src_imgs/trolley.png	csiq/dst_imgs/jpeg2000/trolley.jpeg2000.5.png	JPEG2000 compression	0.236066997051239
+765	csiq/src_imgs/trolley.png	csiq/dst_imgs/fnoise/trolley.fnoise.1.png	Additive pink Gaussian noise	0.9328492879867554
+766	csiq/src_imgs/trolley.png	csiq/dst_imgs/fnoise/trolley.fnoise.2.png	Additive pink Gaussian noise	0.7060947418212891
+767	csiq/src_imgs/trolley.png	csiq/dst_imgs/fnoise/trolley.fnoise.3.png	Additive pink Gaussian noise	0.5679738521575928
+768	csiq/src_imgs/trolley.png	csiq/dst_imgs/fnoise/trolley.fnoise.4.png	Additive pink Gaussian noise	0.4135081171989441
+769	csiq/src_imgs/trolley.png	csiq/dst_imgs/fnoise/trolley.fnoise.5.png	Additive pink Gaussian noise	0.2990420460700989
+770	csiq/src_imgs/trolley.png	csiq/dst_imgs/blur/trolley.blur.1.png	Gaussian blur	0.9636463522911072
+771	csiq/src_imgs/trolley.png	csiq/dst_imgs/blur/trolley.blur.2.png	Gaussian blur	0.8848418593406677
+772	csiq/src_imgs/trolley.png	csiq/dst_imgs/blur/trolley.blur.3.png	Gaussian blur	0.7701750993728638
+773	csiq/src_imgs/trolley.png	csiq/dst_imgs/blur/trolley.blur.4.png	Gaussian blur	0.5930372476577759
+774	csiq/src_imgs/trolley.png	csiq/dst_imgs/blur/trolley.blur.5.png	Gaussian blur	0.39413970708847046
+775	csiq/src_imgs/trolley.png	csiq/dst_imgs/contrast/trolley.contrast.1.png	Global contrast decrements	0.9439969658851624
+776	csiq/src_imgs/trolley.png	csiq/dst_imgs/contrast/trolley.contrast.2.png	Global contrast decrements	0.7850052118301392
+777	csiq/src_imgs/trolley.png	csiq/dst_imgs/contrast/trolley.contrast.3.png	Global contrast decrements	0.5669982433319092
+778	csiq/src_imgs/trolley.png	csiq/dst_imgs/contrast/trolley.contrast.4.png	Global contrast decrements	0.5028619766235352
+87	csiq/src_imgs/bridge.png	csiq/dst_imgs/awgn/bridge.awgn.1.png	Additive white Gaussian noise	0.9722179770469666
+88	csiq/src_imgs/bridge.png	csiq/dst_imgs/awgn/bridge.awgn.2.png	Additive white Gaussian noise	0.912143349647522
+89	csiq/src_imgs/bridge.png	csiq/dst_imgs/awgn/bridge.awgn.3.png	Additive white Gaussian noise	0.7482116222381592
+90	csiq/src_imgs/bridge.png	csiq/dst_imgs/awgn/bridge.awgn.4.png	Additive white Gaussian noise	0.5913047790527344
+91	csiq/src_imgs/bridge.png	csiq/dst_imgs/awgn/bridge.awgn.5.png	Additive white Gaussian noise	0.48299115896224976
+92	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg/bridge.jpeg.1.png	JPEG compression	0.9628065228462219
+93	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg/bridge.jpeg.2.png	JPEG compression	0.9241633415222168
+94	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg/bridge.jpeg.3.png	JPEG compression	0.727225661277771
+95	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg/bridge.jpeg.4.png	JPEG compression	0.2568836808204651
+96	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg/bridge.jpeg.5.png	JPEG compression	0.18383574485778809
+97	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg2000/bridge.jpeg2000.1.png	JPEG2000 compression	0.9618818759918213
+98	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg2000/bridge.jpeg2000.2.png	JPEG2000 compression	0.797065019607544
+99	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg2000/bridge.jpeg2000.3.png	JPEG2000 compression	0.5906200408935547
+100	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg2000/bridge.jpeg2000.4.png	JPEG2000 compression	0.3491804003715515
+101	csiq/src_imgs/bridge.png	csiq/dst_imgs/jpeg2000/bridge.jpeg2000.5.png	JPEG2000 compression	0.1753184199333191
+102	csiq/src_imgs/bridge.png	csiq/dst_imgs/fnoise/bridge.fnoise.1.png	Additive pink Gaussian noise	0.94917893409729
+103	csiq/src_imgs/bridge.png	csiq/dst_imgs/fnoise/bridge.fnoise.2.png	Additive pink Gaussian noise	0.7072432041168213
+104	csiq/src_imgs/bridge.png	csiq/dst_imgs/fnoise/bridge.fnoise.3.png	Additive pink Gaussian noise	0.5711321830749512
+105	csiq/src_imgs/bridge.png	csiq/dst_imgs/fnoise/bridge.fnoise.4.png	Additive pink Gaussian noise	0.4046896696090698
+106	csiq/src_imgs/bridge.png	csiq/dst_imgs/fnoise/bridge.fnoise.5.png	Additive pink Gaussian noise	0.3034595251083374
+107	csiq/src_imgs/bridge.png	csiq/dst_imgs/blur/bridge.blur.1.png	Gaussian blur	0.9393489956855774
+108	csiq/src_imgs/bridge.png	csiq/dst_imgs/blur/bridge.blur.2.png	Gaussian blur	0.8175629377365112
+109	csiq/src_imgs/bridge.png	csiq/dst_imgs/blur/bridge.blur.3.png	Gaussian blur	0.6518601179122925
+110	csiq/src_imgs/bridge.png	csiq/dst_imgs/blur/bridge.blur.4.png	Gaussian blur	0.36420899629592896
+111	csiq/src_imgs/bridge.png	csiq/dst_imgs/blur/bridge.blur.5.png	Gaussian blur	0.2228216528892517
+112	csiq/src_imgs/bridge.png	csiq/dst_imgs/contrast/bridge.contrast.1.png	Global contrast decrements	0.9635929465293884
+113	csiq/src_imgs/bridge.png	csiq/dst_imgs/contrast/bridge.contrast.2.png	Global contrast decrements	0.8605285286903381
+114	csiq/src_imgs/bridge.png	csiq/dst_imgs/contrast/bridge.contrast.3.png	Global contrast decrements	0.6551082134246826
+115	csiq/src_imgs/bridge.png	csiq/dst_imgs/contrast/bridge.contrast.4.png	Global contrast decrements	0.542478084564209
+779	csiq/src_imgs/turtle.png	csiq/dst_imgs/awgn/turtle.awgn.1.png	Additive white Gaussian noise	0.9800194501876831
+780	csiq/src_imgs/turtle.png	csiq/dst_imgs/awgn/turtle.awgn.2.png	Additive white Gaussian noise	0.8807799220085144
+781	csiq/src_imgs/turtle.png	csiq/dst_imgs/awgn/turtle.awgn.3.png	Additive white Gaussian noise	0.8012851476669312
+782	csiq/src_imgs/turtle.png	csiq/dst_imgs/awgn/turtle.awgn.4.png	Additive white Gaussian noise	0.6706454753875732
+783	csiq/src_imgs/turtle.png	csiq/dst_imgs/awgn/turtle.awgn.5.png	Additive white Gaussian noise	0.5643514394760132
+784	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg/turtle.jpeg.1.png	JPEG compression	0.984533429145813
+785	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg/turtle.jpeg.2.png	JPEG compression	0.8712814450263977
+786	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg/turtle.jpeg.3.png	JPEG compression	0.5115704536437988
+787	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg/turtle.jpeg.4.png	JPEG compression	0.3104645013809204
+788	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg/turtle.jpeg.5.png	JPEG compression	0.22498387098312378
+789	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg2000/turtle.jpeg2000.1.png	JPEG2000 compression	0.998028039932251
+790	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg2000/turtle.jpeg2000.2.png	JPEG2000 compression	0.8378843665122986
+791	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg2000/turtle.jpeg2000.3.png	JPEG2000 compression	0.46833544969558716
+792	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg2000/turtle.jpeg2000.4.png	JPEG2000 compression	0.19767975807189941
+793	csiq/src_imgs/turtle.png	csiq/dst_imgs/jpeg2000/turtle.jpeg2000.5.png	JPEG2000 compression	0.015799641609191895
+794	csiq/src_imgs/turtle.png	csiq/dst_imgs/fnoise/turtle.fnoise.1.png	Additive pink Gaussian noise	0.9611824154853821
+795	csiq/src_imgs/turtle.png	csiq/dst_imgs/fnoise/turtle.fnoise.2.png	Additive pink Gaussian noise	0.8273969292640686
+796	csiq/src_imgs/turtle.png	csiq/dst_imgs/fnoise/turtle.fnoise.3.png	Additive pink Gaussian noise	0.6552140712738037
+797	csiq/src_imgs/turtle.png	csiq/dst_imgs/fnoise/turtle.fnoise.4.png	Additive pink Gaussian noise	0.46161597967147827
+798	csiq/src_imgs/turtle.png	csiq/dst_imgs/fnoise/turtle.fnoise.5.png	Additive pink Gaussian noise	0.3468831777572632
+799	csiq/src_imgs/turtle.png	csiq/dst_imgs/blur/turtle.blur.1.png	Gaussian blur	0.9395450353622437
+800	csiq/src_imgs/turtle.png	csiq/dst_imgs/blur/turtle.blur.2.png	Gaussian blur	0.7651428580284119
+801	csiq/src_imgs/turtle.png	csiq/dst_imgs/blur/turtle.blur.3.png	Gaussian blur	0.4819122552871704
+802	csiq/src_imgs/turtle.png	csiq/dst_imgs/blur/turtle.blur.4.png	Gaussian blur	0.252535343170166
+803	csiq/src_imgs/turtle.png	csiq/dst_imgs/blur/turtle.blur.5.png	Gaussian blur	0.06711244583129883
+804	csiq/src_imgs/turtle.png	csiq/dst_imgs/contrast/turtle.contrast.1.png	Global contrast decrements	0.9207539558410645
+805	csiq/src_imgs/turtle.png	csiq/dst_imgs/contrast/turtle.contrast.2.png	Global contrast decrements	0.8011084198951721
+806	csiq/src_imgs/turtle.png	csiq/dst_imgs/contrast/turtle.contrast.3.png	Global contrast decrements	0.5934121608734131
+807	csiq/src_imgs/turtle.png	csiq/dst_imgs/contrast/turtle.contrast.4.png	Global contrast decrements	0.4457640051841736
+461	csiq/src_imgs/monument.png	csiq/dst_imgs/awgn/monument.awgn.1.png	Additive white Gaussian noise	0.9875932931900024
+462	csiq/src_imgs/monument.png	csiq/dst_imgs/awgn/monument.awgn.2.png	Additive white Gaussian noise	0.9189298748970032
+463	csiq/src_imgs/monument.png	csiq/dst_imgs/awgn/monument.awgn.3.png	Additive white Gaussian noise	0.8167335987091064
+464	csiq/src_imgs/monument.png	csiq/dst_imgs/awgn/monument.awgn.4.png	Additive white Gaussian noise	0.6752420663833618
+465	csiq/src_imgs/monument.png	csiq/dst_imgs/awgn/monument.awgn.5.png	Additive white Gaussian noise	0.5322569608688354
+466	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg/monument.jpeg.1.png	JPEG compression	0.9844346046447754
+467	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg/monument.jpeg.2.png	JPEG compression	0.9367304444313049
+468	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg/monument.jpeg.3.png	JPEG compression	0.6760366559028625
+469	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg/monument.jpeg.4.png	JPEG compression	0.4320757985115051
+470	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg/monument.jpeg.5.png	JPEG compression	0.23444139957427979
+471	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg2000/monument.jpeg2000.1.png	JPEG2000 compression	0.9853762984275818
+472	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg2000/monument.jpeg2000.2.png	JPEG2000 compression	0.8935878872871399
+473	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg2000/monument.jpeg2000.3.png	JPEG2000 compression	0.6190518140792847
+474	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg2000/monument.jpeg2000.4.png	JPEG2000 compression	0.3348180055618286
+475	csiq/src_imgs/monument.png	csiq/dst_imgs/jpeg2000/monument.jpeg2000.5.png	JPEG2000 compression	0.17940235137939453
+476	csiq/src_imgs/monument.png	csiq/dst_imgs/fnoise/monument.fnoise.1.png	Additive pink Gaussian noise	0.9690573811531067
+477	csiq/src_imgs/monument.png	csiq/dst_imgs/fnoise/monument.fnoise.2.png	Additive pink Gaussian noise	0.7917600870132446
+478	csiq/src_imgs/monument.png	csiq/dst_imgs/fnoise/monument.fnoise.3.png	Additive pink Gaussian noise	0.6798734664916992
+479	csiq/src_imgs/monument.png	csiq/dst_imgs/fnoise/monument.fnoise.4.png	Additive pink Gaussian noise	0.48629093170166016
+480	csiq/src_imgs/monument.png	csiq/dst_imgs/fnoise/monument.fnoise.5.png	Additive pink Gaussian noise	0.4015223979949951
+481	csiq/src_imgs/monument.png	csiq/dst_imgs/blur/monument.blur.1.png	Gaussian blur	0.9523318409919739
+482	csiq/src_imgs/monument.png	csiq/dst_imgs/blur/monument.blur.2.png	Gaussian blur	0.8229539394378662
+483	csiq/src_imgs/monument.png	csiq/dst_imgs/blur/monument.blur.3.png	Gaussian blur	0.6405987739562988
+484	csiq/src_imgs/monument.png	csiq/dst_imgs/blur/monument.blur.4.png	Gaussian blur	0.41245079040527344
+485	csiq/src_imgs/monument.png	csiq/dst_imgs/blur/monument.blur.5.png	Gaussian blur	0.20972520112991333
+486	csiq/src_imgs/monument.png	csiq/dst_imgs/contrast/monument.contrast.1.png	Global contrast decrements	0.986822783946991
+487	csiq/src_imgs/monument.png	csiq/dst_imgs/contrast/monument.contrast.2.png	Global contrast decrements	0.8576297760009766
+488	csiq/src_imgs/monument.png	csiq/dst_imgs/contrast/monument.contrast.3.png	Global contrast decrements	0.7418745756149292
+489	csiq/src_imgs/monument.png	csiq/dst_imgs/contrast/monument.contrast.4.png	Global contrast decrements	0.6766494512557983
+232	csiq/src_imgs/elk.png	csiq/dst_imgs/awgn/elk.awgn.1.png	Additive white Gaussian noise	0.9666804075241089
+233	csiq/src_imgs/elk.png	csiq/dst_imgs/awgn/elk.awgn.2.png	Additive white Gaussian noise	0.9347642660140991
+234	csiq/src_imgs/elk.png	csiq/dst_imgs/awgn/elk.awgn.3.png	Additive white Gaussian noise	0.8280973434448242
+235	csiq/src_imgs/elk.png	csiq/dst_imgs/awgn/elk.awgn.4.png	Additive white Gaussian noise	0.7634611129760742
+236	csiq/src_imgs/elk.png	csiq/dst_imgs/awgn/elk.awgn.5.png	Additive white Gaussian noise	0.6420592069625854
+237	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg/elk.jpeg.1.png	JPEG compression	0.9676294326782227
+238	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg/elk.jpeg.2.png	JPEG compression	0.9318001866340637
+239	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg/elk.jpeg.3.png	JPEG compression	0.7800407409667969
+240	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg/elk.jpeg.4.png	JPEG compression	0.4503282904624939
+241	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg/elk.jpeg.5.png	JPEG compression	0.2897796034812927
+242	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg2000/elk.jpeg2000.1.png	JPEG2000 compression	0.9730573892593384
+243	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg2000/elk.jpeg2000.2.png	JPEG2000 compression	0.9256200194358826
+244	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg2000/elk.jpeg2000.3.png	JPEG2000 compression	0.7549107074737549
+245	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg2000/elk.jpeg2000.4.png	JPEG2000 compression	0.4542059302330017
+246	csiq/src_imgs/elk.png	csiq/dst_imgs/jpeg2000/elk.jpeg2000.5.png	JPEG2000 compression	0.1894274353981018
+247	csiq/src_imgs/elk.png	csiq/dst_imgs/fnoise/elk.fnoise.1.png	Additive pink Gaussian noise	0.9535293579101562
+248	csiq/src_imgs/elk.png	csiq/dst_imgs/fnoise/elk.fnoise.2.png	Additive pink Gaussian noise	0.7533217072486877
+249	csiq/src_imgs/elk.png	csiq/dst_imgs/fnoise/elk.fnoise.3.png	Additive pink Gaussian noise	0.6291064620018005
+250	csiq/src_imgs/elk.png	csiq/dst_imgs/fnoise/elk.fnoise.4.png	Additive pink Gaussian noise	0.5161480903625488
+251	csiq/src_imgs/elk.png	csiq/dst_imgs/fnoise/elk.fnoise.5.png	Additive pink Gaussian noise	0.35505223274230957
+252	csiq/src_imgs/elk.png	csiq/dst_imgs/blur/elk.blur.1.png	Gaussian blur	0.9557452201843262
+253	csiq/src_imgs/elk.png	csiq/dst_imgs/blur/elk.blur.2.png	Gaussian blur	0.8783738017082214
+254	csiq/src_imgs/elk.png	csiq/dst_imgs/blur/elk.blur.3.png	Gaussian blur	0.7529127597808838
+255	csiq/src_imgs/elk.png	csiq/dst_imgs/blur/elk.blur.4.png	Gaussian blur	0.5951792001724243
+256	csiq/src_imgs/elk.png	csiq/dst_imgs/blur/elk.blur.5.png	Gaussian blur	0.23712801933288574
+257	csiq/src_imgs/elk.png	csiq/dst_imgs/contrast/elk.contrast.1.png	Global contrast decrements	0.9244577288627625
+258	csiq/src_imgs/elk.png	csiq/dst_imgs/contrast/elk.contrast.2.png	Global contrast decrements	0.7996311783790588
+259	csiq/src_imgs/elk.png	csiq/dst_imgs/contrast/elk.contrast.3.png	Global contrast decrements	0.6008899211883545
+490	csiq/src_imgs/native_american.png	csiq/dst_imgs/awgn/native_american.awgn.1.png	Additive white Gaussian noise	0.9596776366233826
+491	csiq/src_imgs/native_american.png	csiq/dst_imgs/awgn/native_american.awgn.2.png	Additive white Gaussian noise	0.9309201836585999
+492	csiq/src_imgs/native_american.png	csiq/dst_imgs/awgn/native_american.awgn.3.png	Additive white Gaussian noise	0.7760518789291382
+493	csiq/src_imgs/native_american.png	csiq/dst_imgs/awgn/native_american.awgn.4.png	Additive white Gaussian noise	0.5989007949829102
+494	csiq/src_imgs/native_american.png	csiq/dst_imgs/awgn/native_american.awgn.5.png	Additive white Gaussian noise	0.5239403247833252
+495	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg/native_american.jpeg.1.png	JPEG compression	0.9773942232131958
+496	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg/native_american.jpeg.2.png	JPEG compression	0.9082906246185303
+497	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg/native_american.jpeg.3.png	JPEG compression	0.6379218101501465
+498	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg/native_american.jpeg.4.png	JPEG compression	0.300736665725708
+499	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg/native_american.jpeg.5.png	JPEG compression	0.17295634746551514
+500	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg2000/native_american.jpeg2000.1.png	JPEG2000 compression	0.9450933933258057
+501	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg2000/native_american.jpeg2000.2.png	JPEG2000 compression	0.849690318107605
+502	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg2000/native_american.jpeg2000.3.png	JPEG2000 compression	0.6270801424980164
+503	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg2000/native_american.jpeg2000.4.png	JPEG2000 compression	0.2768779397010803
+504	csiq/src_imgs/native_american.png	csiq/dst_imgs/jpeg2000/native_american.jpeg2000.5.png	JPEG2000 compression	0.11291533708572388
+505	csiq/src_imgs/native_american.png	csiq/dst_imgs/fnoise/native_american.fnoise.1.png	Additive pink Gaussian noise	0.9131002426147461
+506	csiq/src_imgs/native_american.png	csiq/dst_imgs/fnoise/native_american.fnoise.2.png	Additive pink Gaussian noise	0.7455428242683411
+507	csiq/src_imgs/native_american.png	csiq/dst_imgs/fnoise/native_american.fnoise.3.png	Additive pink Gaussian noise	0.5090439319610596
+508	csiq/src_imgs/native_american.png	csiq/dst_imgs/fnoise/native_american.fnoise.4.png	Additive pink Gaussian noise	0.3822701573371887
+509	csiq/src_imgs/native_american.png	csiq/dst_imgs/fnoise/native_american.fnoise.5.png	Additive pink Gaussian noise	0.26455575227737427
+510	csiq/src_imgs/native_american.png	csiq/dst_imgs/blur/native_american.blur.1.png	Gaussian blur	0.9649193286895752
+511	csiq/src_imgs/native_american.png	csiq/dst_imgs/blur/native_american.blur.2.png	Gaussian blur	0.827721357345581
+512	csiq/src_imgs/native_american.png	csiq/dst_imgs/blur/native_american.blur.3.png	Gaussian blur	0.6350612640380859
+513	csiq/src_imgs/native_american.png	csiq/dst_imgs/blur/native_american.blur.4.png	Gaussian blur	0.39345812797546387
+514	csiq/src_imgs/native_american.png	csiq/dst_imgs/blur/native_american.blur.5.png	Gaussian blur	0.13193315267562866
+515	csiq/src_imgs/native_american.png	csiq/dst_imgs/contrast/native_american.contrast.1.png	Global contrast decrements	0.9380615949630737
+516	csiq/src_imgs/native_american.png	csiq/dst_imgs/contrast/native_american.contrast.2.png	Global contrast decrements	0.7762665152549744
+517	csiq/src_imgs/native_american.png	csiq/dst_imgs/contrast/native_american.contrast.3.png	Global contrast decrements	0.6304135322570801
+518	csiq/src_imgs/native_american.png	csiq/dst_imgs/contrast/native_american.contrast.4.png	Global contrast decrements	0.5413737297058105
+289	csiq/src_imgs/fisher.png	csiq/dst_imgs/awgn/fisher.awgn.1.png	Additive white Gaussian noise	0.94764643907547
+290	csiq/src_imgs/fisher.png	csiq/dst_imgs/awgn/fisher.awgn.2.png	Additive white Gaussian noise	0.8697812557220459
+291	csiq/src_imgs/fisher.png	csiq/dst_imgs/awgn/fisher.awgn.3.png	Additive white Gaussian noise	0.7835304737091064
+292	csiq/src_imgs/fisher.png	csiq/dst_imgs/awgn/fisher.awgn.4.png	Additive white Gaussian noise	0.6878573894500732
+293	csiq/src_imgs/fisher.png	csiq/dst_imgs/awgn/fisher.awgn.5.png	Additive white Gaussian noise	0.559684693813324
+294	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg/fisher.jpeg.1.png	JPEG compression	0.9918911457061768
+295	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg/fisher.jpeg.2.png	JPEG compression	0.8195114135742188
+296	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg/fisher.jpeg.3.png	JPEG compression	0.48215216398239136
+297	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg/fisher.jpeg.4.png	JPEG compression	0.27544528245925903
+298	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg/fisher.jpeg.5.png	JPEG compression	0.20931845903396606
+299	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg2000/fisher.jpeg2000.1.png	JPEG2000 compression	0.9918748736381531
+300	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg2000/fisher.jpeg2000.2.png	JPEG2000 compression	0.8236812949180603
+301	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg2000/fisher.jpeg2000.3.png	JPEG2000 compression	0.4820464849472046
+302	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg2000/fisher.jpeg2000.4.png	JPEG2000 compression	0.19157123565673828
+303	csiq/src_imgs/fisher.png	csiq/dst_imgs/jpeg2000/fisher.jpeg2000.5.png	JPEG2000 compression	0.0279199481010437
+304	csiq/src_imgs/fisher.png	csiq/dst_imgs/fnoise/fisher.fnoise.1.png	Additive pink Gaussian noise	0.9339404702186584
+305	csiq/src_imgs/fisher.png	csiq/dst_imgs/fnoise/fisher.fnoise.2.png	Additive pink Gaussian noise	0.7297120094299316
+306	csiq/src_imgs/fisher.png	csiq/dst_imgs/fnoise/fisher.fnoise.3.png	Additive pink Gaussian noise	0.5971977710723877
+307	csiq/src_imgs/fisher.png	csiq/dst_imgs/fnoise/fisher.fnoise.4.png	Additive pink Gaussian noise	0.5126284956932068
+308	csiq/src_imgs/fisher.png	csiq/dst_imgs/fnoise/fisher.fnoise.5.png	Additive pink Gaussian noise	0.3934773802757263
+309	csiq/src_imgs/fisher.png	csiq/dst_imgs/blur/fisher.blur.1.png	Gaussian blur	0.9442405700683594
+310	csiq/src_imgs/fisher.png	csiq/dst_imgs/blur/fisher.blur.2.png	Gaussian blur	0.6388489007949829
+311	csiq/src_imgs/fisher.png	csiq/dst_imgs/blur/fisher.blur.3.png	Gaussian blur	0.41675299406051636
+312	csiq/src_imgs/fisher.png	csiq/dst_imgs/blur/fisher.blur.4.png	Gaussian blur	0.19955813884735107
+313	csiq/src_imgs/fisher.png	csiq/dst_imgs/blur/fisher.blur.5.png	Gaussian blur	0.08725690841674805
+314	csiq/src_imgs/fisher.png	csiq/dst_imgs/contrast/fisher.contrast.1.png	Global contrast decrements	0.9095631837844849
+315	csiq/src_imgs/fisher.png	csiq/dst_imgs/contrast/fisher.contrast.2.png	Global contrast decrements	0.787615180015564
+316	csiq/src_imgs/fisher.png	csiq/dst_imgs/contrast/fisher.contrast.3.png	Global contrast decrements	0.6584445238113403
+317	csiq/src_imgs/fisher.png	csiq/dst_imgs/contrast/fisher.contrast.4.png	Global contrast decrements	0.6105867624282837
+318	csiq/src_imgs/foxy.png	csiq/dst_imgs/awgn/foxy.awgn.1.png	Additive white Gaussian noise	0.9864709973335266
+319	csiq/src_imgs/foxy.png	csiq/dst_imgs/awgn/foxy.awgn.2.png	Additive white Gaussian noise	0.936383068561554
+320	csiq/src_imgs/foxy.png	csiq/dst_imgs/awgn/foxy.awgn.3.png	Additive white Gaussian noise	0.8635308742523193
+321	csiq/src_imgs/foxy.png	csiq/dst_imgs/awgn/foxy.awgn.4.png	Additive white Gaussian noise	0.749553918838501
+322	csiq/src_imgs/foxy.png	csiq/dst_imgs/awgn/foxy.awgn.5.png	Additive white Gaussian noise	0.6188371181488037
+323	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg/foxy.jpeg.1.png	JPEG compression	0.9839561581611633
+324	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg/foxy.jpeg.2.png	JPEG compression	0.9250614643096924
+325	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg/foxy.jpeg.3.png	JPEG compression	0.8458383083343506
+326	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg/foxy.jpeg.4.png	JPEG compression	0.677963376045227
+327	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg/foxy.jpeg.5.png	JPEG compression	0.4489346742630005
+328	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg2000/foxy.jpeg2000.1.png	JPEG2000 compression	0.9845892190933228
+329	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg2000/foxy.jpeg2000.2.png	JPEG2000 compression	0.943702220916748
+330	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg2000/foxy.jpeg2000.3.png	JPEG2000 compression	0.8212383389472961
+331	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg2000/foxy.jpeg2000.4.png	JPEG2000 compression	0.6207973957061768
+332	csiq/src_imgs/foxy.png	csiq/dst_imgs/jpeg2000/foxy.jpeg2000.5.png	JPEG2000 compression	0.39097005128860474
+333	csiq/src_imgs/foxy.png	csiq/dst_imgs/fnoise/foxy.fnoise.1.png	Additive pink Gaussian noise	0.977262020111084
+334	csiq/src_imgs/foxy.png	csiq/dst_imgs/fnoise/foxy.fnoise.2.png	Additive pink Gaussian noise	0.9078330993652344
+335	csiq/src_imgs/foxy.png	csiq/dst_imgs/fnoise/foxy.fnoise.3.png	Additive pink Gaussian noise	0.6672908067703247
+336	csiq/src_imgs/foxy.png	csiq/dst_imgs/fnoise/foxy.fnoise.4.png	Additive pink Gaussian noise	0.5990217924118042
+337	csiq/src_imgs/foxy.png	csiq/dst_imgs/fnoise/foxy.fnoise.5.png	Additive pink Gaussian noise	0.4241446256637573
+338	csiq/src_imgs/foxy.png	csiq/dst_imgs/blur/foxy.blur.1.png	Gaussian blur	0.984138011932373
+339	csiq/src_imgs/foxy.png	csiq/dst_imgs/blur/foxy.blur.2.png	Gaussian blur	0.8901999592781067
+340	csiq/src_imgs/foxy.png	csiq/dst_imgs/blur/foxy.blur.3.png	Gaussian blur	0.8201990127563477
+341	csiq/src_imgs/foxy.png	csiq/dst_imgs/blur/foxy.blur.4.png	Gaussian blur	0.7096798419952393
+342	csiq/src_imgs/foxy.png	csiq/dst_imgs/blur/foxy.blur.5.png	Gaussian blur	0.5581597089767456
+343	csiq/src_imgs/foxy.png	csiq/dst_imgs/contrast/foxy.contrast.1.png	Global contrast decrements	0.9532331824302673
+344	csiq/src_imgs/foxy.png	csiq/dst_imgs/contrast/foxy.contrast.2.png	Global contrast decrements	0.8167495131492615
+345	csiq/src_imgs/foxy.png	csiq/dst_imgs/contrast/foxy.contrast.3.png	Global contrast decrements	0.6439231634140015
+346	csiq/src_imgs/foxy.png	csiq/dst_imgs/contrast/foxy.contrast.4.png	Global contrast decrements	0.5300747156143188
+58	csiq/src_imgs/boston.png	csiq/dst_imgs/awgn/boston.awgn.1.png	Additive white Gaussian noise	0.9708407521247864
+59	csiq/src_imgs/boston.png	csiq/dst_imgs/awgn/boston.awgn.2.png	Additive white Gaussian noise	0.9186314940452576
+60	csiq/src_imgs/boston.png	csiq/dst_imgs/awgn/boston.awgn.3.png	Additive white Gaussian noise	0.784503698348999
+61	csiq/src_imgs/boston.png	csiq/dst_imgs/awgn/boston.awgn.4.png	Additive white Gaussian noise	0.6168838739395142
+62	csiq/src_imgs/boston.png	csiq/dst_imgs/awgn/boston.awgn.5.png	Additive white Gaussian noise	0.5284091234207153
+63	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg/boston.jpeg.1.png	JPEG compression	1.0
+64	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg/boston.jpeg.2.png	JPEG compression	0.9501164555549622
+65	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg/boston.jpeg.3.png	JPEG compression	0.6715084910392761
+66	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg/boston.jpeg.4.png	JPEG compression	0.2630629539489746
+67	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg/boston.jpeg.5.png	JPEG compression	0.16751903295516968
+68	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg2000/boston.jpeg2000.1.png	JPEG2000 compression	0.9997056126594543
+69	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg2000/boston.jpeg2000.2.png	JPEG2000 compression	0.8818649053573608
+70	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg2000/boston.jpeg2000.3.png	JPEG2000 compression	0.6106649041175842
+71	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg2000/boston.jpeg2000.4.png	JPEG2000 compression	0.3034374713897705
+72	csiq/src_imgs/boston.png	csiq/dst_imgs/jpeg2000/boston.jpeg2000.5.png	JPEG2000 compression	0.09569460153579712
+73	csiq/src_imgs/boston.png	csiq/dst_imgs/fnoise/boston.fnoise.1.png	Additive pink Gaussian noise	0.9323464035987854
+74	csiq/src_imgs/boston.png	csiq/dst_imgs/fnoise/boston.fnoise.2.png	Additive pink Gaussian noise	0.7565732002258301
+75	csiq/src_imgs/boston.png	csiq/dst_imgs/fnoise/boston.fnoise.3.png	Additive pink Gaussian noise	0.5018709897994995
+76	csiq/src_imgs/boston.png	csiq/dst_imgs/fnoise/boston.fnoise.4.png	Additive pink Gaussian noise	0.3800373077392578
+77	csiq/src_imgs/boston.png	csiq/dst_imgs/fnoise/boston.fnoise.5.png	Additive pink Gaussian noise	0.27591580152511597
+78	csiq/src_imgs/boston.png	csiq/dst_imgs/blur/boston.blur.1.png	Gaussian blur	0.91654372215271
+79	csiq/src_imgs/boston.png	csiq/dst_imgs/blur/boston.blur.2.png	Gaussian blur	0.7842510342597961
+80	csiq/src_imgs/boston.png	csiq/dst_imgs/blur/boston.blur.3.png	Gaussian blur	0.6368796825408936
+81	csiq/src_imgs/boston.png	csiq/dst_imgs/blur/boston.blur.4.png	Gaussian blur	0.42878276109695435
+82	csiq/src_imgs/boston.png	csiq/dst_imgs/blur/boston.blur.5.png	Gaussian blur	0.08698749542236328
+83	csiq/src_imgs/boston.png	csiq/dst_imgs/contrast/boston.contrast.1.png	Global contrast decrements	0.883431613445282
+84	csiq/src_imgs/boston.png	csiq/dst_imgs/contrast/boston.contrast.2.png	Global contrast decrements	0.6608407497406006
+85	csiq/src_imgs/boston.png	csiq/dst_imgs/contrast/boston.contrast.3.png	Global contrast decrements	0.39464831352233887
+86	csiq/src_imgs/boston.png	csiq/dst_imgs/contrast/boston.contrast.4.png	Global contrast decrements	0.3102705478668213
+664	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/awgn/sunset_sparrow.awgn.1.png	Additive white Gaussian noise	0.9578688144683838
+665	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/awgn/sunset_sparrow.awgn.2.png	Additive white Gaussian noise	0.820722222328186
+666	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/awgn/sunset_sparrow.awgn.3.png	Additive white Gaussian noise	0.674447774887085
+667	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/awgn/sunset_sparrow.awgn.4.png	Additive white Gaussian noise	0.5423413515090942
+668	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/awgn/sunset_sparrow.awgn.5.png	Additive white Gaussian noise	0.45101821422576904
+669	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg/sunset_sparrow.jpeg.1.png	JPEG compression	0.9568333625793457
+670	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg/sunset_sparrow.jpeg.2.png	JPEG compression	0.8826141357421875
+671	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg/sunset_sparrow.jpeg.3.png	JPEG compression	0.6582813858985901
+672	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg/sunset_sparrow.jpeg.4.png	JPEG compression	0.2784823179244995
+673	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg/sunset_sparrow.jpeg.5.png	JPEG compression	0.17392945289611816
+674	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.1.png	JPEG2000 compression	0.9415982961654663
+675	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.2.png	JPEG2000 compression	0.8214987516403198
+676	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.3.png	JPEG2000 compression	0.6087448000907898
+677	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.4.png	JPEG2000 compression	0.3939152956008911
+678	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/jpeg2000/sunset_sparrow.jpeg2000.5.png	JPEG2000 compression	0.11118990182876587
+679	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/fnoise/sunset_sparrow.fnoise.1.png	Additive pink Gaussian noise	0.7758366465568542
+680	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/fnoise/sunset_sparrow.fnoise.2.png	Additive pink Gaussian noise	0.6307852268218994
+681	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/fnoise/sunset_sparrow.fnoise.3.png	Additive pink Gaussian noise	0.46092134714126587
+682	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/fnoise/sunset_sparrow.fnoise.4.png	Additive pink Gaussian noise	0.39317697286605835
+683	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/fnoise/sunset_sparrow.fnoise.5.png	Additive pink Gaussian noise	0.2657800316810608
+684	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/blur/sunset_sparrow.blur.1.png	Gaussian blur	0.9134531021118164
+685	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/blur/sunset_sparrow.blur.2.png	Gaussian blur	0.8093077540397644
+686	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/blur/sunset_sparrow.blur.3.png	Gaussian blur	0.6931090950965881
+687	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/blur/sunset_sparrow.blur.4.png	Gaussian blur	0.4523961544036865
+688	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/blur/sunset_sparrow.blur.5.png	Gaussian blur	0.15408170223236084
+689	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/contrast/sunset_sparrow.contrast.1.png	Global contrast decrements	0.9064215421676636
+690	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/contrast/sunset_sparrow.contrast.2.png	Global contrast decrements	0.7395073175430298
+691	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/contrast/sunset_sparrow.contrast.3.png	Global contrast decrements	0.598128080368042
+692	csiq/src_imgs/sunset_sparrow.png	csiq/dst_imgs/contrast/sunset_sparrow.contrast.4.png	Global contrast decrements	0.5346018075942993
+116	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/awgn/butter_flower.awgn.1.png	Additive white Gaussian noise	0.9734259247779846
+117	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/awgn/butter_flower.awgn.2.png	Additive white Gaussian noise	0.910834550857544
+118	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/awgn/butter_flower.awgn.3.png	Additive white Gaussian noise	0.7477013468742371
+119	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/awgn/butter_flower.awgn.4.png	Additive white Gaussian noise	0.5651078224182129
+120	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/awgn/butter_flower.awgn.5.png	Additive white Gaussian noise	0.45472896099090576
+121	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg/butter_flower.jpeg.1.png	JPEG compression	0.9767410755157471
+122	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg/butter_flower.jpeg.2.png	JPEG compression	0.9691087603569031
+123	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg/butter_flower.jpeg.3.png	JPEG compression	0.590083658695221
+124	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg/butter_flower.jpeg.4.png	JPEG compression	0.30058735609054565
+125	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg/butter_flower.jpeg.5.png	JPEG compression	0.1919107437133789
+126	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg2000/butter_flower.jpeg2000.1.png	JPEG2000 compression	0.9724327921867371
+127	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg2000/butter_flower.jpeg2000.2.png	JPEG2000 compression	0.8568394780158997
+128	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg2000/butter_flower.jpeg2000.3.png	JPEG2000 compression	0.540057897567749
+129	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg2000/butter_flower.jpeg2000.4.png	JPEG2000 compression	0.22077924013137817
+130	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/jpeg2000/butter_flower.jpeg2000.5.png	JPEG2000 compression	0.07430952787399292
+131	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/fnoise/butter_flower.fnoise.1.png	Additive pink Gaussian noise	0.9721229076385498
+132	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/fnoise/butter_flower.fnoise.2.png	Additive pink Gaussian noise	0.8048803210258484
+133	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/fnoise/butter_flower.fnoise.3.png	Additive pink Gaussian noise	0.6184839010238647
+134	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/fnoise/butter_flower.fnoise.4.png	Additive pink Gaussian noise	0.4509599208831787
+135	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/fnoise/butter_flower.fnoise.5.png	Additive pink Gaussian noise	0.2733968496322632
+136	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/blur/butter_flower.blur.1.png	Gaussian blur	0.9219277501106262
+137	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/blur/butter_flower.blur.2.png	Gaussian blur	0.798031747341156
+138	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/blur/butter_flower.blur.3.png	Gaussian blur	0.5180194973945618
+139	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/blur/butter_flower.blur.4.png	Gaussian blur	0.2214599847793579
+140	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/blur/butter_flower.blur.5.png	Gaussian blur	0.04722493886947632
+141	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/contrast/butter_flower.contrast.1.png	Global contrast decrements	0.9301686882972717
+142	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/contrast/butter_flower.contrast.2.png	Global contrast decrements	0.743599534034729
+143	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/contrast/butter_flower.contrast.3.png	Global contrast decrements	0.4852977991104126
+144	csiq/src_imgs/butter_flower.png	csiq/dst_imgs/contrast/butter_flower.contrast.4.png	Global contrast decrements	0.38511335849761963
+635	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/awgn/snow_leaves.awgn.1.png	Additive white Gaussian noise	0.9811522364616394
+636	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/awgn/snow_leaves.awgn.2.png	Additive white Gaussian noise	0.93651282787323
+637	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/awgn/snow_leaves.awgn.3.png	Additive white Gaussian noise	0.788260281085968
+638	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/awgn/snow_leaves.awgn.4.png	Additive white Gaussian noise	0.7065614461898804
+639	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/awgn/snow_leaves.awgn.5.png	Additive white Gaussian noise	0.5658726096153259
+640	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg/snow_leaves.jpeg.1.png	JPEG compression	0.9781419634819031
+641	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg/snow_leaves.jpeg.2.png	JPEG compression	0.9403394460678101
+642	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg/snow_leaves.jpeg.3.png	JPEG compression	0.7390953302383423
+643	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg/snow_leaves.jpeg.4.png	JPEG compression	0.4447516202926636
+644	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg/snow_leaves.jpeg.5.png	JPEG compression	0.2891841530799866
+645	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg2000/snow_leaves.jpeg2000.1.png	JPEG2000 compression	0.9959729313850403
+646	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg2000/snow_leaves.jpeg2000.2.png	JPEG2000 compression	0.9221600294113159
+647	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg2000/snow_leaves.jpeg2000.3.png	JPEG2000 compression	0.8126190304756165
+648	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg2000/snow_leaves.jpeg2000.4.png	JPEG2000 compression	0.44460010528564453
+649	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/jpeg2000/snow_leaves.jpeg2000.5.png	JPEG2000 compression	0.2434093952178955
+650	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/fnoise/snow_leaves.fnoise.1.png	Additive pink Gaussian noise	0.9523663520812988
+651	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/fnoise/snow_leaves.fnoise.2.png	Additive pink Gaussian noise	0.7754237055778503
+652	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/fnoise/snow_leaves.fnoise.3.png	Additive pink Gaussian noise	0.5885888934135437
+653	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/fnoise/snow_leaves.fnoise.4.png	Additive pink Gaussian noise	0.46395808458328247
+654	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/fnoise/snow_leaves.fnoise.5.png	Additive pink Gaussian noise	0.3208649754524231
+655	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/blur/snow_leaves.blur.1.png	Gaussian blur	0.9802491068840027
+656	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/blur/snow_leaves.blur.2.png	Gaussian blur	0.8602558374404907
+657	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/blur/snow_leaves.blur.3.png	Gaussian blur	0.6996749639511108
+658	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/blur/snow_leaves.blur.4.png	Gaussian blur	0.540190577507019
+659	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/blur/snow_leaves.blur.5.png	Gaussian blur	0.30358976125717163
+660	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/contrast/snow_leaves.contrast.1.png	Global contrast decrements	0.9593403339385986
+661	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/contrast/snow_leaves.contrast.2.png	Global contrast decrements	0.7790570259094238
+662	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/contrast/snow_leaves.contrast.3.png	Global contrast decrements	0.6804734468460083
+663	csiq/src_imgs/snow_leaves.png	csiq/dst_imgs/contrast/snow_leaves.contrast.4.png	Global contrast decrements	0.621241569519043
+693	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/awgn/sunsetcolor.awgn.1.png	Additive white Gaussian noise	0.9606938362121582
+694	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/awgn/sunsetcolor.awgn.2.png	Additive white Gaussian noise	0.7944361567497253
+695	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/awgn/sunsetcolor.awgn.3.png	Additive white Gaussian noise	0.6979047060012817
+696	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/awgn/sunsetcolor.awgn.4.png	Additive white Gaussian noise	0.5906044840812683
+697	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/awgn/sunsetcolor.awgn.5.png	Additive white Gaussian noise	0.4848455786705017
+698	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg/sunsetcolor.jpeg.1.png	JPEG compression	0.9688295125961304
+699	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg/sunsetcolor.jpeg.2.png	JPEG compression	0.5639967918395996
+700	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg/sunsetcolor.jpeg.3.png	JPEG compression	0.30696994066238403
+701	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg/sunsetcolor.jpeg.4.png	JPEG compression	0.11505365371704102
+702	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg/sunsetcolor.jpeg.5.png	JPEG compression	0.0823565125465393
+703	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.1.png	JPEG2000 compression	0.976071834564209
+704	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.2.png	JPEG2000 compression	0.6993467807769775
+705	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.3.png	JPEG2000 compression	0.34477370977401733
+706	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.4.png	JPEG2000 compression	0.1491091251373291
+707	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/jpeg2000/sunsetcolor.jpeg2000.5.png	JPEG2000 compression	0.0
+708	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/fnoise/sunsetcolor.fnoise.1.png	Additive pink Gaussian noise	0.8807666301727295
+709	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/fnoise/sunsetcolor.fnoise.2.png	Additive pink Gaussian noise	0.6607857346534729
+710	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/fnoise/sunsetcolor.fnoise.3.png	Additive pink Gaussian noise	0.46855443716049194
+711	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/fnoise/sunsetcolor.fnoise.4.png	Additive pink Gaussian noise	0.3826937675476074
+712	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/fnoise/sunsetcolor.fnoise.5.png	Additive pink Gaussian noise	0.27855777740478516
+713	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/blur/sunsetcolor.blur.1.png	Gaussian blur	0.9269244074821472
+714	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/blur/sunsetcolor.blur.2.png	Gaussian blur	0.6914735436439514
+715	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/blur/sunsetcolor.blur.3.png	Gaussian blur	0.274081826210022
+716	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/blur/sunsetcolor.blur.4.png	Gaussian blur	0.03721731901168823
+717	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/blur/sunsetcolor.blur.5.png	Gaussian blur	0.0005913376808166504
+718	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/contrast/sunsetcolor.contrast.1.png	Global contrast decrements	0.9479621648788452
+719	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/contrast/sunsetcolor.contrast.2.png	Global contrast decrements	0.8690272569656372
+720	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/contrast/sunsetcolor.contrast.3.png	Global contrast decrements	0.727399468421936
+721	csiq/src_imgs/sunsetcolor.png	csiq/dst_imgs/contrast/sunsetcolor.contrast.4.png	Global contrast decrements	0.5868978500366211
+606	csiq/src_imgs/shroom.png	csiq/dst_imgs/awgn/shroom.awgn.1.png	Additive white Gaussian noise	0.9685514569282532
+607	csiq/src_imgs/shroom.png	csiq/dst_imgs/awgn/shroom.awgn.2.png	Additive white Gaussian noise	0.8643977046012878
+608	csiq/src_imgs/shroom.png	csiq/dst_imgs/awgn/shroom.awgn.3.png	Additive white Gaussian noise	0.7632699608802795
+609	csiq/src_imgs/shroom.png	csiq/dst_imgs/awgn/shroom.awgn.4.png	Additive white Gaussian noise	0.6448593139648438
+610	csiq/src_imgs/shroom.png	csiq/dst_imgs/awgn/shroom.awgn.5.png	Additive white Gaussian noise	0.5367650985717773
+611	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg/shroom.jpeg.1.png	JPEG compression	0.9803532361984253
+612	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg/shroom.jpeg.2.png	JPEG compression	0.8752719759941101
+613	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg/shroom.jpeg.3.png	JPEG compression	0.6929126977920532
+614	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg/shroom.jpeg.4.png	JPEG compression	0.33686888217926025
+615	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg/shroom.jpeg.5.png	JPEG compression	0.2199190855026245
+616	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg2000/shroom.jpeg2000.1.png	JPEG2000 compression	0.9959900975227356
+617	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg2000/shroom.jpeg2000.2.png	JPEG2000 compression	0.9197365641593933
+618	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg2000/shroom.jpeg2000.3.png	JPEG2000 compression	0.6089792251586914
+619	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg2000/shroom.jpeg2000.4.png	JPEG2000 compression	0.3945649266242981
+620	csiq/src_imgs/shroom.png	csiq/dst_imgs/jpeg2000/shroom.jpeg2000.5.png	JPEG2000 compression	0.1634284257888794
+621	csiq/src_imgs/shroom.png	csiq/dst_imgs/fnoise/shroom.fnoise.1.png	Additive pink Gaussian noise	0.9784541726112366
+622	csiq/src_imgs/shroom.png	csiq/dst_imgs/fnoise/shroom.fnoise.2.png	Additive pink Gaussian noise	0.8200163841247559
+623	csiq/src_imgs/shroom.png	csiq/dst_imgs/fnoise/shroom.fnoise.3.png	Additive pink Gaussian noise	0.6442610025405884
+624	csiq/src_imgs/shroom.png	csiq/dst_imgs/fnoise/shroom.fnoise.4.png	Additive pink Gaussian noise	0.42523640394210815
+625	csiq/src_imgs/shroom.png	csiq/dst_imgs/fnoise/shroom.fnoise.5.png	Additive pink Gaussian noise	0.2983420491218567
+626	csiq/src_imgs/shroom.png	csiq/dst_imgs/blur/shroom.blur.1.png	Gaussian blur	0.9539584517478943
+627	csiq/src_imgs/shroom.png	csiq/dst_imgs/blur/shroom.blur.2.png	Gaussian blur	0.8389686346054077
+628	csiq/src_imgs/shroom.png	csiq/dst_imgs/blur/shroom.blur.3.png	Gaussian blur	0.6052918434143066
+629	csiq/src_imgs/shroom.png	csiq/dst_imgs/blur/shroom.blur.4.png	Gaussian blur	0.4508401155471802
+630	csiq/src_imgs/shroom.png	csiq/dst_imgs/blur/shroom.blur.5.png	Gaussian blur	0.23075836896896362
+631	csiq/src_imgs/shroom.png	csiq/dst_imgs/contrast/shroom.contrast.1.png	Global contrast decrements	0.9193695783615112
+632	csiq/src_imgs/shroom.png	csiq/dst_imgs/contrast/shroom.contrast.2.png	Global contrast decrements	0.8156257271766663
+633	csiq/src_imgs/shroom.png	csiq/dst_imgs/contrast/shroom.contrast.3.png	Global contrast decrements	0.6672143936157227
+634	csiq/src_imgs/shroom.png	csiq/dst_imgs/contrast/shroom.contrast.4.png	Global contrast decrements	0.5898064374923706
+432	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/awgn/log_seaside.awgn.1.png	Additive white Gaussian noise	1.0
+433	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/awgn/log_seaside.awgn.2.png	Additive white Gaussian noise	0.9434389472007751
+434	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/awgn/log_seaside.awgn.3.png	Additive white Gaussian noise	0.8681454062461853
+435	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/awgn/log_seaside.awgn.4.png	Additive white Gaussian noise	0.7325345277786255
+436	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/awgn/log_seaside.awgn.5.png	Additive white Gaussian noise	0.5582383275032043
+437	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg/log_seaside.jpeg.1.png	JPEG compression	0.9997924566268921
+438	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg/log_seaside.jpeg.2.png	JPEG compression	0.9907113313674927
+439	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg/log_seaside.jpeg.3.png	JPEG compression	0.9621940851211548
+440	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg/log_seaside.jpeg.4.png	JPEG compression	0.7307420969009399
+441	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg/log_seaside.jpeg.5.png	JPEG compression	0.3610635995864868
+442	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg2000/log_seaside.jpeg2000.1.png	JPEG2000 compression	0.9997924566268921
+443	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg2000/log_seaside.jpeg2000.2.png	JPEG2000 compression	0.9552364945411682
+444	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg2000/log_seaside.jpeg2000.3.png	JPEG2000 compression	0.8400481939315796
+445	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg2000/log_seaside.jpeg2000.4.png	JPEG2000 compression	0.6055761575698853
+446	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/jpeg2000/log_seaside.jpeg2000.5.png	JPEG2000 compression	0.30695849657058716
+447	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/fnoise/log_seaside.fnoise.1.png	Additive pink Gaussian noise	0.9824897646903992
+448	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/fnoise/log_seaside.fnoise.2.png	Additive pink Gaussian noise	0.8568747639656067
+449	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/fnoise/log_seaside.fnoise.3.png	Additive pink Gaussian noise	0.6770307421684265
+450	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/fnoise/log_seaside.fnoise.4.png	Additive pink Gaussian noise	0.48183494806289673
+451	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/fnoise/log_seaside.fnoise.5.png	Additive pink Gaussian noise	0.32735657691955566
+452	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/blur/log_seaside.blur.1.png	Gaussian blur	0.9865055680274963
+453	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/blur/log_seaside.blur.2.png	Gaussian blur	0.9219264984130859
+454	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/blur/log_seaside.blur.3.png	Gaussian blur	0.7927569150924683
+455	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/blur/log_seaside.blur.4.png	Gaussian blur	0.6494864821434021
+456	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/blur/log_seaside.blur.5.png	Gaussian blur	0.40960562229156494
+457	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/contrast/log_seaside.contrast.1.png	Global contrast decrements	0.976580023765564
+458	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/contrast/log_seaside.contrast.2.png	Global contrast decrements	0.8432952165603638
+459	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/contrast/log_seaside.contrast.3.png	Global contrast decrements	0.6309378147125244
+460	csiq/src_imgs/log_seaside.png	csiq/dst_imgs/contrast/log_seaside.contrast.4.png	Global contrast decrements	0.5417183637619019
+145	csiq/src_imgs/cactus.png	csiq/dst_imgs/awgn/cactus.awgn.1.png	Additive white Gaussian noise	0.8956712484359741
+146	csiq/src_imgs/cactus.png	csiq/dst_imgs/awgn/cactus.awgn.2.png	Additive white Gaussian noise	0.7942922115325928
+147	csiq/src_imgs/cactus.png	csiq/dst_imgs/awgn/cactus.awgn.3.png	Additive white Gaussian noise	0.6505615711212158
+148	csiq/src_imgs/cactus.png	csiq/dst_imgs/awgn/cactus.awgn.4.png	Additive white Gaussian noise	0.5608328580856323
+149	csiq/src_imgs/cactus.png	csiq/dst_imgs/awgn/cactus.awgn.5.png	Additive white Gaussian noise	0.5016085505485535
+150	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg/cactus.jpeg.1.png	JPEG compression	0.959031343460083
+151	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg/cactus.jpeg.2.png	JPEG compression	0.8395360708236694
+152	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg/cactus.jpeg.3.png	JPEG compression	0.621579110622406
+153	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg/cactus.jpeg.4.png	JPEG compression	0.2958575487136841
+154	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg/cactus.jpeg.5.png	JPEG compression	0.18827736377716064
+155	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg2000/cactus.jpeg2000.1.png	JPEG2000 compression	0.921442985534668
+156	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg2000/cactus.jpeg2000.2.png	JPEG2000 compression	0.7909611463546753
+157	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg2000/cactus.jpeg2000.3.png	JPEG2000 compression	0.5945371389389038
+158	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg2000/cactus.jpeg2000.4.png	JPEG2000 compression	0.36102283000946045
+159	csiq/src_imgs/cactus.png	csiq/dst_imgs/jpeg2000/cactus.jpeg2000.5.png	JPEG2000 compression	0.2147499918937683
+160	csiq/src_imgs/cactus.png	csiq/dst_imgs/fnoise/cactus.fnoise.1.png	Additive pink Gaussian noise	0.777916669845581
+161	csiq/src_imgs/cactus.png	csiq/dst_imgs/fnoise/cactus.fnoise.2.png	Additive pink Gaussian noise	0.6746779680252075
+162	csiq/src_imgs/cactus.png	csiq/dst_imgs/fnoise/cactus.fnoise.3.png	Additive pink Gaussian noise	0.49696511030197144
+163	csiq/src_imgs/cactus.png	csiq/dst_imgs/fnoise/cactus.fnoise.4.png	Additive pink Gaussian noise	0.4052491784095764
+164	csiq/src_imgs/cactus.png	csiq/dst_imgs/fnoise/cactus.fnoise.5.png	Additive pink Gaussian noise	0.3333922028541565
+165	csiq/src_imgs/cactus.png	csiq/dst_imgs/blur/cactus.blur.1.png	Gaussian blur	0.9332565665245056
+166	csiq/src_imgs/cactus.png	csiq/dst_imgs/blur/cactus.blur.2.png	Gaussian blur	0.8528011441230774
+167	csiq/src_imgs/cactus.png	csiq/dst_imgs/blur/cactus.blur.3.png	Gaussian blur	0.6007245182991028
+168	csiq/src_imgs/cactus.png	csiq/dst_imgs/blur/cactus.blur.4.png	Gaussian blur	0.49159014225006104
+169	csiq/src_imgs/cactus.png	csiq/dst_imgs/blur/cactus.blur.5.png	Gaussian blur	0.2500038743019104
+170	csiq/src_imgs/cactus.png	csiq/dst_imgs/contrast/cactus.contrast.1.png	Global contrast decrements	0.8887450695037842
+171	csiq/src_imgs/cactus.png	csiq/dst_imgs/contrast/cactus.contrast.2.png	Global contrast decrements	0.7148430347442627
+172	csiq/src_imgs/cactus.png	csiq/dst_imgs/contrast/cactus.contrast.3.png	Global contrast decrements	0.5922735333442688
+173	csiq/src_imgs/cactus.png	csiq/dst_imgs/contrast/cactus.contrast.4.png	Global contrast decrements	0.4832661747932434
+577	csiq/src_imgs/rushmore.png	csiq/dst_imgs/awgn/rushmore.awgn.1.png	Additive white Gaussian noise	0.9675015211105347
+578	csiq/src_imgs/rushmore.png	csiq/dst_imgs/awgn/rushmore.awgn.2.png	Additive white Gaussian noise	0.8690042495727539
+579	csiq/src_imgs/rushmore.png	csiq/dst_imgs/awgn/rushmore.awgn.3.png	Additive white Gaussian noise	0.74110347032547
+580	csiq/src_imgs/rushmore.png	csiq/dst_imgs/awgn/rushmore.awgn.4.png	Additive white Gaussian noise	0.6181121468544006
+581	csiq/src_imgs/rushmore.png	csiq/dst_imgs/awgn/rushmore.awgn.5.png	Additive white Gaussian noise	0.48739737272262573
+582	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg/rushmore.jpeg.1.png	JPEG compression	0.9758689403533936
+583	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg/rushmore.jpeg.2.png	JPEG compression	0.957028329372406
+584	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg/rushmore.jpeg.3.png	JPEG compression	0.8193073868751526
+585	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg/rushmore.jpeg.4.png	JPEG compression	0.4627276659011841
+586	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg/rushmore.jpeg.5.png	JPEG compression	0.33370065689086914
+587	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg2000/rushmore.jpeg2000.1.png	JPEG2000 compression	0.9817322492599487
+588	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg2000/rushmore.jpeg2000.2.png	JPEG2000 compression	0.909956157207489
+589	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg2000/rushmore.jpeg2000.3.png	JPEG2000 compression	0.693762481212616
+590	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg2000/rushmore.jpeg2000.4.png	JPEG2000 compression	0.49858808517456055
+591	csiq/src_imgs/rushmore.png	csiq/dst_imgs/jpeg2000/rushmore.jpeg2000.5.png	JPEG2000 compression	0.2462332844734192
+592	csiq/src_imgs/rushmore.png	csiq/dst_imgs/fnoise/rushmore.fnoise.1.png	Additive pink Gaussian noise	0.8016002178192139
+593	csiq/src_imgs/rushmore.png	csiq/dst_imgs/fnoise/rushmore.fnoise.2.png	Additive pink Gaussian noise	0.7033518552780151
+594	csiq/src_imgs/rushmore.png	csiq/dst_imgs/fnoise/rushmore.fnoise.3.png	Additive pink Gaussian noise	0.5777332782745361
+595	csiq/src_imgs/rushmore.png	csiq/dst_imgs/fnoise/rushmore.fnoise.4.png	Additive pink Gaussian noise	0.45336246490478516
+596	csiq/src_imgs/rushmore.png	csiq/dst_imgs/fnoise/rushmore.fnoise.5.png	Additive pink Gaussian noise	0.36414432525634766
+597	csiq/src_imgs/rushmore.png	csiq/dst_imgs/blur/rushmore.blur.1.png	Gaussian blur	0.988557755947113
+598	csiq/src_imgs/rushmore.png	csiq/dst_imgs/blur/rushmore.blur.2.png	Gaussian blur	0.9167130589485168
+599	csiq/src_imgs/rushmore.png	csiq/dst_imgs/blur/rushmore.blur.3.png	Gaussian blur	0.7584173679351807
+600	csiq/src_imgs/rushmore.png	csiq/dst_imgs/blur/rushmore.blur.4.png	Gaussian blur	0.5844241380691528
+601	csiq/src_imgs/rushmore.png	csiq/dst_imgs/blur/rushmore.blur.5.png	Gaussian blur	0.34240925312042236
+602	csiq/src_imgs/rushmore.png	csiq/dst_imgs/contrast/rushmore.contrast.1.png	Global contrast decrements	0.8752921223640442
+603	csiq/src_imgs/rushmore.png	csiq/dst_imgs/contrast/rushmore.contrast.2.png	Global contrast decrements	0.7104122042655945
+604	csiq/src_imgs/rushmore.png	csiq/dst_imgs/contrast/rushmore.contrast.3.png	Global contrast decrements	0.6070695519447327
+605	csiq/src_imgs/rushmore.png	csiq/dst_imgs/contrast/rushmore.contrast.4.png	Global contrast decrements	0.4942231774330139
